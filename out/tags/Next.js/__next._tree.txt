@@ -2,8 +2,8 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"ViewportBoundary"]
 4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-:HL["/_next/static/chunks/6d9e926fb553b30e.css","style"]
+:HL["/_next/static/chunks/f6f348c1010b89e8.css","style"]
 :HC["/",""]
-0:{"buildId":"nn_cYt4ywrIN0BS6BDto5","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"tags","paramType":null,"paramKey":"tags","hasRuntimePrefetch":false,"slots":{"children":{"name":"tag","paramType":"d","paramKey":"Next.js","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
+0:{"buildId":"-Mlrc5xPbWIWO9oxHWXT7","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"tags","paramType":null,"paramKey":"tags","hasRuntimePrefetch":false,"slots":{"children":{"name":"tag","paramType":"d","paramKey":"Next.js","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-6:[["$","title","0",{"children":"Next.js · Tags - My Blog"}],["$","meta","1",{"name":"description","content":"基于 Next.js 的现代化博客系统，采用 Butterfly 主题设计风格"}]]
+6:[["$","title","0",{"children":"Next.js · Tags - My Blog"}]]

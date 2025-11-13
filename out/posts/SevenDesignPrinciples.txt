@@ -1,0 +1,562 @@
+1:"$Sreact.fragment"
+2:I[92825,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"ClientSegmentRoot"]
+3:I[42525,["/_next/static/chunks/69e9c26e1d71ec67.js"],"default"]
+4:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"default"]
+5:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"default"]
+6:I[22016,["/_next/static/chunks/69e9c26e1d71ec67.js","/_next/static/chunks/3b18bc2b8fba2eef.js"],""]
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+c:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"ViewportBoundary"]
+e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"MetadataBoundary"]
+10:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"default"]
+:HL["/_next/static/chunks/f6f348c1010b89e8.css","style"]
+:HC["/",""]
+0:{"P":null,"b":"-Mlrc5xPbWIWO9oxHWXT7","c":["","posts","SevenDesignPrinciples"],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["slug","SevenDesignPrinciples","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/f6f348c1010b89e8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/69e9c26e1d71ec67.js","async":true,"nonce":"$undefined"}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-[50vh] flex items-center justify-center","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"text-3xl font-semibold","children":"页面未找到"}],["$","p",null,{"className":"mt-2 text-zinc-600 dark:text-zinc-400","children":"可能该文章不存在或已被移除。"}],["$","div",null,{"className":"mt-6","children":["$","$L6",null,{"href":"/","className":"rounded-md border px-3 py-2 text-sm text-zinc-700 hover:text-black dark:text-zinc-300","children":"返回首页"}]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@7"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",[["$","script","script-0",{"src":"/_next/static/chunks/3b18bc2b8fba2eef.js","async":true,"nonce":"$undefined"}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$@d"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$@f"}]}]}],null]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:"$0:f:0:1:0:props:children:1:props:serverProvidedParams:params"
+11:I[39494,["/_next/static/chunks/69e9c26e1d71ec67.js","/_next/static/chunks/3b18bc2b8fba2eef.js"],"default"]
+12:I[22495,["/_next/static/chunks/69e9c26e1d71ec67.js","/_next/static/chunks/3b18bc2b8fba2eef.js"],"default"]
+13:T72e5,<h1>七大设计原则详解</h1>
+<p>本文详细介绍面向对象编程中的七大设计原则,包含核心思想、Java 实现示例、优缺点分析及适用场景。</p>
+<h2>目录</h2>
+<ol>
+<li><a href="#1%EF%B8%8F%E2%83%A3-%E5%8D%95%E4%B8%80%E8%81%8C%E8%B4%A3%E5%8E%9F%E5%88%99">单一职责原则 (SRP)</a></li>
+<li><a href="#2%EF%B8%8F%E2%83%A3-%E5%BC%80%E6%94%BE%E5%B0%81%E9%97%AD%E5%8E%9F%E5%88%99">开放封闭原则 (OCP)</a></li>
+<li><a href="#3%EF%B8%8F%E2%83%A3-%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8D%A2%E5%8E%9F%E5%88%99">里氏替换原则 (LSP)</a></li>
+<li><a href="#4%EF%B8%8F%E2%83%A3-%E4%BE%9D%E8%B5%96%E5%80%92%E7%BD%AE%E5%8E%9F%E5%88%99">依赖倒置原则 (DIP)</a></li>
+<li><a href="#5%EF%B8%8F%E2%83%A3-%E6%8E%A5%E5%8F%A3%E9%9A%94%E7%A6%BB%E5%8E%9F%E5%88%99">接口隔离原则 (ISP)</a></li>
+<li><a href="#6%EF%B8%8F%E2%83%A3-%E5%90%88%E6%88%90%E5%A4%8D%E7%94%A8%E5%8E%9F%E5%88%99">合成复用原则 (CRP)</a></li>
+<li><a href="#7%EF%B8%8F%E2%83%A3-%E8%BF%AA%E7%B1%B3%E7%89%B9%E6%B3%95%E5%88%99">迪米特法则 (LoD)</a></li>
+<li><a href="#8%EF%B8%8F%E2%83%A3-%E4%B8%83%E5%A4%A7%E5%8E%9F%E5%88%99%E7%9A%84%E5%85%B1%E5%90%8C%E7%82%B9%E4%B8%8E%E5%86%85%E5%9C%A8%E8%81%94%E7%B3%BB">七大原则的共同点与内在联系</a></li>
+</ol>
+<hr>
+<h2>🧱 1️⃣ 单一职责原则（Single Responsibility Principle, SRP）</h2>
+<h3>📖 定义</h3>
+<p>一个类只负责一项职责，类的变化原因应该只有一个。</p>
+<h3>🚫 反例</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Report</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">generate</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"生成报表..."</span>);
+    }
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">saveToDatabase</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"保存到数据库..."</span>);
+    }
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">sendEmail</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"发送邮件..."</span>);
+    }
+}
+</code></pre>
+<p>这个类承担了太多职责：生成、保存、发送。</p>
+<h3>✅ 改进示例</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">class</span> <span class="hljs-title class_">ReportGenerator</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">generate</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"生成报表..."</span>);
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ReportSaver</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">save</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"保存到数据库..."</span>);
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">EmailSender</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">send</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"发送邮件..."</span>);
+    }
+}
+</code></pre>
+<p>📌 每个类只做一件事，维护和扩展更容易。</p>
+<h3>✅ 优点</h3>
+<ul>
+<li>降低类的复杂度，逻辑更清晰</li>
+<li>提高代码的可维护性和可读性</li>
+<li>各模块变更互不影响，风险低</li>
+</ul>
+<h3>⚠️ 缺点</h3>
+<ul>
+<li>类数量会增多，系统结构更复杂</li>
+<li>拆分过度会导致管理困难</li>
+</ul>
+<h3>📍 适用场景</h3>
+<p>当一个类承担多种功能，且这些功能的变化频率不同或逻辑独立时。</p>
+<hr>
+<h2>🔒 2️⃣ 开放封闭原则（Open Closed Principle, OCP）</h2>
+<h3>📖 定义</h3>
+<p>对扩展开放，对修改关闭。
+即在不修改原有代码的情况下，允许扩展新功能。</p>
+<h3>🚫 反例</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Discount</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-type">double</span> <span class="hljs-title function_">calc</span><span class="hljs-params">(String userType, <span class="hljs-type">double</span> price)</span> {
+        <span class="hljs-keyword">if</span> (userType.equals(<span class="hljs-string">"vip"</span>)) {
+            <span class="hljs-keyword">return</span> price * <span class="hljs-number">0.8</span>;
+        } <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span> (userType.equals(<span class="hljs-string">"super_vip"</span>)) {
+            <span class="hljs-keyword">return</span> price * <span class="hljs-number">0.6</span>;
+        } <span class="hljs-keyword">else</span> {
+            <span class="hljs-keyword">return</span> price;
+        }
+    }
+}
+</code></pre>
+<p>每增加一种新用户类型，都要改类。</p>
+<h3>✅ 改进示例（策略模式思想）</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">interface</span> <span class="hljs-title class_">DiscountStrategy</span> {
+    <span class="hljs-type">double</span> <span class="hljs-title function_">calc</span><span class="hljs-params">(<span class="hljs-type">double</span> price)</span>;
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">NormalDiscount</span> <span class="hljs-keyword">implements</span> <span class="hljs-title class_">DiscountStrategy</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-type">double</span> <span class="hljs-title function_">calc</span><span class="hljs-params">(<span class="hljs-type">double</span> price)</span> {
+        <span class="hljs-keyword">return</span> price;
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">VipDiscount</span> <span class="hljs-keyword">implements</span> <span class="hljs-title class_">DiscountStrategy</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-type">double</span> <span class="hljs-title function_">calc</span><span class="hljs-params">(<span class="hljs-type">double</span> price)</span> {
+        <span class="hljs-keyword">return</span> price * <span class="hljs-number">0.8</span>;
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">SuperVipDiscount</span> <span class="hljs-keyword">implements</span> <span class="hljs-title class_">DiscountStrategy</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-type">double</span> <span class="hljs-title function_">calc</span><span class="hljs-params">(<span class="hljs-type">double</span> price)</span> {
+        <span class="hljs-keyword">return</span> price * <span class="hljs-number">0.6</span>;
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">DiscountContext</span> {
+    <span class="hljs-keyword">private</span> DiscountStrategy strategy;
+    <span class="hljs-keyword">public</span> <span class="hljs-title function_">DiscountContext</span><span class="hljs-params">(DiscountStrategy strategy)</span> {
+        <span class="hljs-built_in">this</span>.strategy = strategy;
+    }
+    <span class="hljs-keyword">public</span> <span class="hljs-type">double</span> <span class="hljs-title function_">getFinalPrice</span><span class="hljs-params">(<span class="hljs-type">double</span> price)</span> {
+        <span class="hljs-keyword">return</span> strategy.calc(price);
+    }
+}
+</code></pre>
+<p>📌 新增类型时，只需新增一个策略类，不改原有逻辑。</p>
+<h3>✅ 优点</h3>
+<ul>
+<li>新功能可通过扩展实现，而无需修改稳定代码</li>
+<li>降低回归风险，提高系统可扩展性</li>
+<li>体现多态思想</li>
+</ul>
+<h3>⚠️ 缺点</h3>
+<ul>
+<li>需要提前设计抽象层，初期设计成本高</li>
+<li>如果抽象定义不合理，扩展反而困难</li>
+</ul>
+<h3>📍 适用场景</h3>
+<p>功能频繁变化或未来有扩展预期的模块（如支付方式、权限策略等）。</p>
+<hr>
+<h2>🧬 3️⃣ 里氏替换原则（Liskov Substitution Principle, LSP）</h2>
+<h3>📖 定义</h3>
+<p>子类必须能替换父类使用，程序行为不应改变。</p>
+<h3>🚫 反例</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Bird</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">fly</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"鸟在飞"</span>);
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Penguin</span> <span class="hljs-keyword">extends</span> <span class="hljs-title class_">Bird</span> {
+    <span class="hljs-meta">@Override</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">fly</span><span class="hljs-params">()</span> {
+        <span class="hljs-keyword">throw</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">RuntimeException</span>(<span class="hljs-string">"企鹅不会飞！"</span>);
+    }
+}
+</code></pre>
+<p>🐧 破坏了父类“会飞”的契约。</p>
+<h3>✅ 改进示例</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Bird</span> {}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">FlyableBird</span> <span class="hljs-keyword">extends</span> <span class="hljs-title class_">Bird</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">fly</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"鸟在飞"</span>);
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Penguin</span> <span class="hljs-keyword">extends</span> <span class="hljs-title class_">Bird</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">swim</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"企鹅在游泳"</span>);
+    }
+}
+</code></pre>
+<p>📌 不强行继承不适用的行为，重新建合适的父类层次。</p>
+<h3>✅ 优点</h3>
+<ul>
+<li>保证继承体系的稳定性和可复用性</li>
+<li>避免滥用继承造成的逻辑错误</li>
+<li>提高系统可维护性</li>
+</ul>
+<h3>⚠️ 缺点</h3>
+<ul>
+<li>需要较高的抽象设计水平</li>
+<li>有时强行保持替换关系会导致类层次设计复杂</li>
+</ul>
+<h3>📍 适用场景</h3>
+<p>涉及继承和多态的设计（如框架扩展、插件体系）。</p>
+<hr>
+<h2>🔄 4️⃣ 依赖倒置原则（Dependency Inversion Principle, DIP）</h2>
+<h3>📖 定义</h3>
+<p>高层模块不依赖底层模块，两者都依赖于抽象。
+抽象不依赖细节，细节依赖抽象。</p>
+<h3>🚫 反例</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">class</span> <span class="hljs-title class_">MySQLDatabase</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">save</span><span class="hljs-params">(String data)</span> {
+        System.out.println(<span class="hljs-string">"保存到 MySQL"</span>);
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">UserService</span> {
+    <span class="hljs-keyword">private</span> <span class="hljs-type">MySQLDatabase</span> <span class="hljs-variable">db</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">MySQLDatabase</span>();
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">addUser</span><span class="hljs-params">(String user)</span> {
+        db.save(user);
+    }
+}
+</code></pre>
+<p>📉 高层模块 <code>UserService</code> 依赖于具体实现。</p>
+<h3>✅ 改进示例</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">interface</span> <span class="hljs-title class_">Database</span> {
+    <span class="hljs-keyword">void</span> <span class="hljs-title function_">save</span><span class="hljs-params">(String data)</span>;
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">MySQLDatabase</span> <span class="hljs-keyword">implements</span> <span class="hljs-title class_">Database</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">save</span><span class="hljs-params">(String data)</span> {
+        System.out.println(<span class="hljs-string">"保存到 MySQL"</span>);
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">PostgreSQLDatabase</span> <span class="hljs-keyword">implements</span> <span class="hljs-title class_">Database</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">save</span><span class="hljs-params">(String data)</span> {
+        System.out.println(<span class="hljs-string">"保存到 PostgreSQL"</span>);
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">UserService</span> {
+    <span class="hljs-keyword">private</span> Database db;
+    <span class="hljs-keyword">public</span> <span class="hljs-title function_">UserService</span><span class="hljs-params">(Database db)</span> {
+        <span class="hljs-built_in">this</span>.db = db;
+    }
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">addUser</span><span class="hljs-params">(String user)</span> {
+        db.save(user);
+    }
+}
+
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">Main</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">UserService</span> <span class="hljs-variable">service</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">UserService</span>(<span class="hljs-keyword">new</span> <span class="hljs-title class_">MySQLDatabase</span>());
+        service.addUser(<span class="hljs-string">"Tom"</span>);
+    }
+}
+</code></pre>
+<p>📌 依赖接口而非实现，切换数据库轻松无痛。</p>
+<h3>✅ 优点</h3>
+<ul>
+<li>降低模块间耦合，提高灵活性</li>
+<li>方便替换底层实现（如换数据库、换消息队列）</li>
+<li>支持依赖注入（DI）与控制反转（IoC）</li>
+</ul>
+<h3>⚠️ 缺点</h3>
+<ul>
+<li>需要额外定义接口或抽象层，代码量增加</li>
+<li>对小项目可能显得"过度设计"</li>
+</ul>
+<h3>📍 适用场景</h3>
+<p>系统存在"高层业务逻辑 + 底层实现"的结构时（如 Service → DAO）。</p>
+<hr>
+<h2>⚙️ 5️⃣ 接口隔离原则（Interface Segregation Principle, ISP）</h2>
+<h3>📖 定义</h3>
+<p>不要强迫实现类依赖它不需要的接口。
+接口应小而专。</p>
+<h3>🚫 反例</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">interface</span> <span class="hljs-title class_">Worker</span> {
+    <span class="hljs-keyword">void</span> <span class="hljs-title function_">work</span><span class="hljs-params">()</span>;
+    <span class="hljs-keyword">void</span> <span class="hljs-title function_">eat</span><span class="hljs-params">()</span>;
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Robot</span> <span class="hljs-keyword">implements</span> <span class="hljs-title class_">Worker</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">work</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"机器人工作"</span>);
+    }
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">eat</span><span class="hljs-params">()</span> {
+        <span class="hljs-comment">// 🤖 不需要吃饭</span>
+    }
+}
+</code></pre>
+<h3>✅ 改进示例</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">interface</span> <span class="hljs-title class_">Workable</span> {
+    <span class="hljs-keyword">void</span> <span class="hljs-title function_">work</span><span class="hljs-params">()</span>;
+}
+
+<span class="hljs-keyword">interface</span> <span class="hljs-title class_">Eatable</span> {
+    <span class="hljs-keyword">void</span> <span class="hljs-title function_">eat</span><span class="hljs-params">()</span>;
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Human</span> <span class="hljs-keyword">implements</span> <span class="hljs-title class_">Workable</span>, Eatable {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">work</span><span class="hljs-params">()</span> { System.out.println(<span class="hljs-string">"人工作"</span>); }
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">eat</span><span class="hljs-params">()</span> { System.out.println(<span class="hljs-string">"人吃饭"</span>); }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Robot</span> <span class="hljs-keyword">implements</span> <span class="hljs-title class_">Workable</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">work</span><span class="hljs-params">()</span> { System.out.println(<span class="hljs-string">"机器人工作"</span>); }
+}
+</code></pre>
+<p>📌 按需求拆分接口，避免无意义的依赖。</p>
+<h3>✅ 优点</h3>
+<ul>
+<li>降低实现类负担，避免臃肿接口</li>
+<li>提高灵活性与复用性</li>
+<li>有利于解耦与单一职责</li>
+</ul>
+<h3>⚠️ 缺点</h3>
+<ul>
+<li>接口数量增多，维护成本上升</li>
+<li>拆分不当会导致调用复杂化</li>
+</ul>
+<h3>📍 适用场景</h3>
+<p>当不同实现类只需接口部分功能时（如人和机器人对"工作/吃饭"的需求不同）。</p>
+<hr>
+<h2>🧩 6️⃣ 合成复用原则（Composition Reuse Principle, CRP）</h2>
+<h3>📖 定义</h3>
+<p>优先使用<strong>组合</strong>而不是<strong>继承</strong>来实现复用。</p>
+<h3>🚫 反例</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Engine</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">start</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"发动机启动"</span>);
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Car</span> <span class="hljs-keyword">extends</span> <span class="hljs-title class_">Engine</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">run</span><span class="hljs-params">()</span> {
+        start();
+        System.out.println(<span class="hljs-string">"汽车启动"</span>);
+    }
+}
+</code></pre>
+<p>📉 继承导致 <code>Car</code> 和 <code>Engine</code> 高度耦合。</p>
+<h3>✅ 改进示例</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Engine</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">start</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"发动机启动"</span>);
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Car</span> {
+    <span class="hljs-keyword">private</span> <span class="hljs-type">Engine</span> <span class="hljs-variable">engine</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">Engine</span>();
+
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">run</span><span class="hljs-params">()</span> {
+        engine.start();
+        System.out.println(<span class="hljs-string">"汽车启动"</span>);
+    }
+}
+</code></pre>
+<p>📌 通过组合（<code>has-a</code>）关系，灵活可替换。</p>
+<h3>✅ 优点</h3>
+<ul>
+<li>避免继承层次过深</li>
+<li>组合关系更灵活（可动态替换组件）</li>
+<li>降低耦合度，提高复用性</li>
+</ul>
+<h3>⚠️ 缺点</h3>
+<ul>
+<li>初期设计更复杂，需要定义组件接口</li>
+<li>对象管理稍显繁琐</li>
+</ul>
+<h3>📍 适用场景</h3>
+<p>当"is-a"关系不明确或希望动态改变行为时（如策略模式、装饰器模式）。</p>
+<hr>
+<h2>🔗 7️⃣ 迪米特法则（Law of Demeter, LoD）</h2>
+<h3>📖 定义</h3>
+<p>一个对象应尽量少地了解其他对象，只与“直接朋友”通信。</p>
+<h3>🚫 反例</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Engine</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">start</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"发动机启动"</span>);
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Car</span> {
+    <span class="hljs-type">Engine</span> <span class="hljs-variable">engine</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">Engine</span>();
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Driver</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">drive</span><span class="hljs-params">(Car car)</span> {
+        car.engine.start(); <span class="hljs-comment">// ❌ 直接访问内部成员</span>
+    }
+}
+</code></pre>
+<h3>✅ 改进示例</h3>
+<pre><code class="hljs language-java"><span class="hljs-keyword">class</span> <span class="hljs-title class_">Engine</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">start</span><span class="hljs-params">()</span> {
+        System.out.println(<span class="hljs-string">"发动机启动"</span>);
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Car</span> {
+    <span class="hljs-keyword">private</span> <span class="hljs-type">Engine</span> <span class="hljs-variable">engine</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">Engine</span>();
+
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">start</span><span class="hljs-params">()</span> {
+        engine.start();
+    }
+}
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">Driver</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">drive</span><span class="hljs-params">(Car car)</span> {
+        car.start(); <span class="hljs-comment">// ✅ 只和 Car 打交道</span>
+    }
+}
+</code></pre>
+<p>📌 Driver 不需要知道 Car 的内部结构，耦合更低。</p>
+<h3>✅ 优点</h3>
+<ul>
+<li>降低系统耦合度</li>
+<li>提高模块独立性与封装性</li>
+<li>便于系统维护</li>
+</ul>
+<h3>⚠️ 缺点</h3>
+<ul>
+<li>会增加中间层调用（代码"转发"较多）</li>
+<li>若过度封装，会降低性能或可读性</li>
+</ul>
+<h3>📍 适用场景</h3>
+<p>大型系统中模块调用链较长、对象关系复杂时（如 MVC、微服务通信）。</p>
+<hr>
+<h2>📊 快速参考表</h2>
+<table>
+<thead>
+<tr>
+<th>原则</th>
+<th>核心目标</th>
+<th>关键词</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SRP</td>
+<td>降低类复杂度</td>
+<td>一个类只做一件事</td>
+</tr>
+<tr>
+<td>OCP</td>
+<td>提高可扩展性</td>
+<td>对扩展开放，对修改关闭</td>
+</tr>
+<tr>
+<td>LSP</td>
+<td>稳定与复用</td>
+<td>子类可替换父类</td>
+</tr>
+<tr>
+<td>DIP</td>
+<td>降低耦合</td>
+<td>面向接口编程</td>
+</tr>
+<tr>
+<td>ISP</td>
+<td>灵活设计</td>
+<td>小而专的接口</td>
+</tr>
+<tr>
+<td>CRP</td>
+<td>提高可维护性</td>
+<td>组合优于继承</td>
+</tr>
+<tr>
+<td>LoD</td>
+<td>减少依赖</td>
+<td>最少知道</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>🌐 8️⃣ 七大原则的共同点与内在联系</h2>
+<h3>📖 核心目标</h3>
+<p>所有设计原则的核心目的都是：</p>
+<blockquote>
+<p><strong>提高系统的可维护性、可扩展性与可复用性，降低耦合。</strong></p>
+</blockquote>
+<p>它们是一套<strong>协同工作的设计哲学体系</strong>，不是彼此独立的规则。</p>
+<h3>🔗 逻辑关系图</h3>
+<pre><code>            ┌────────────────────────────────────┐
+            │          高层设计目标：OCP         │
+            │     （系统应能扩展，而不改动旧代码）│
+            └────────────────────────────────────┘
+                          ▲
+                          │
+            ┌────────────────────────────────────┐
+            │   实现OCP的手段之一：DIP + LSP      │
+            │   （依赖抽象 + 子类可替换）         │
+            └────────────────────────────────────┘
+                          ▲
+                          │
+            ┌────────────────────────────────────┐
+            │   保证模块清晰与稳定：SRP + ISP     │
+            │   （单一职责 + 接口细化）           │
+            └────────────────────────────────────┘
+                          ▲
+                          │
+            ┌────────────────────────────────────┐
+            │   降低依赖与复杂度：CRP + LoD       │
+            │   （组合优于继承 + 最少知道）       │
+            └────────────────────────────────────┘
+</code></pre>
+<h3>🧩 层次总结</h3>
+<table>
+<thead>
+<tr>
+<th>层级</th>
+<th>原则</th>
+<th>主要作用</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>设计思想层</strong></td>
+<td>OCP（开放封闭）</td>
+<td>指导系统的总体目标</td>
+</tr>
+<tr>
+<td><strong>抽象层设计</strong></td>
+<td>DIP（依赖倒置）、LSP（里氏替换）</td>
+<td>支撑可扩展性</td>
+</tr>
+<tr>
+<td><strong>模块内设计</strong></td>
+<td>SRP（单一职责）、ISP（接口隔离）</td>
+<td>保证内部高内聚</td>
+</tr>
+<tr>
+<td><strong>结构关系层</strong></td>
+<td>CRP（合成复用）、LoD（迪米特法则）</td>
+<td>降低耦合与复杂度</td>
+</tr>
+</tbody>
+</table>
+<h3>⚙️ 协同作用</h3>
+<ul>
+<li><strong>SRP + ISP</strong> → 模块职责单一，接口清晰。</li>
+<li><strong>OCP + DIP + LSP</strong> → 稳定可扩展的架构核心。</li>
+<li><strong>CRP + LoD</strong> → 降低类之间的依赖与调用复杂度。</li>
+</ul>
+<p>这七条原则共同构成了“高内聚、低耦合”的设计体系。</p>
+<h3>🧩 助记口诀</h3>
+<blockquote>
+<p><strong>"单一封闭替倒隔，合成迪米特。"</strong></p>
+</blockquote>
+<ul>
+<li><strong>"单一"</strong> - 职责清晰</li>
+<li><strong>"封闭"</strong> - 可扩展</li>
+<li><strong>"替"</strong> - 子类可替父</li>
+<li><strong>"倒"</strong> - 依赖倒置</li>
+<li><strong>"隔"</strong> - 接口隔离</li>
+<li><strong>"合成"</strong> - 组合优于继承</li>
+<li><strong>"迪米特"</strong> - 最少知道</li>
+</ul>
+<h3>💡 总结</h3>
+<p>七大设计原则是面向对象设计的基石,它们共同构成了"高内聚、低耦合"的设计体系。在实际开发中,应根据具体场景灵活运用这些原则,避免过度设计,追求简洁与实用的平衡。</p>8:["$","div",null,{"className":"min-h-screen font-sans","children":[["$","$L11",null,{"banner":"$undefined","contentBackground":"$undefined","title":"七大设计原则详解"}],["$","main",null,{"className":"relative z-10 w-full bg-zinc-50/95 dark:bg-black/95 backdrop-blur-sm rounded-t-3xl shadow-2xl","children":["$","div",null,{"className":"max-w-5xl mx-auto py-10 px-6","children":[["$","header",null,{"className":"mb-6 card p-6","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold tracking-tight text-black dark:text-zinc-50 mb-4","children":"七大设计原则详解"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-zinc-600 dark:text-zinc-400 mb-4","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"children":"📅"}],["$","span",null,{"children":"Thu Nov 13 2025 08:00:00 GMT+0800 (中国标准时间)"}]]}],"$undefined",["$","div",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"children":"⏱️"}],["$","span",null,{"children":[6," min"]}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"children":"📝"}],["$","span",null,{"children":[1117," 字"]}]]}]]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-4","children":[["$","$L6","java",{"href":"/tags/java","className":"badge text-xs","children":["🏷️ ","java"]}],["$","$L6","design",{"href":"/tags/design","className":"badge text-xs","children":["🏷️ ","design"]}]]}],["$","div",null,{"className":"flex gap-2 pt-4 border-t border-zinc-200 dark:border-zinc-800","children":[["$","$L6",null,{"href":"/","className":"btn text-sm","children":"← 返回首页"}],"$undefined"]}]]}],["$","div",null,{"className":"grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1fr)_300px]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L12",null,{"html":"$13"}],"$L14","$L15"]}],"$L16"]}]]}]}]]}]
+17:I[44813,["/_next/static/chunks/69e9c26e1d71ec67.js","/_next/static/chunks/3b18bc2b8fba2eef.js"],"default"]
+18:I[88393,["/_next/static/chunks/69e9c26e1d71ec67.js","/_next/static/chunks/3b18bc2b8fba2eef.js"],"default"]
+14:["$","$L17",null,{"title":"七大设计原则详解"}]
+15:["$","section",null,{"className":"mt-10 card card-hover p-4 text-sm text-zinc-600 dark:text-zinc-300","children":"评论系统未集成（Twikoo/Waline/Valine 等）。如需启用，请告知您偏好的方案。"}]
+16:["$","div",null,{"className":"space-y-4","children":["$","$L18",null,{"toc":[{"id":"七大设计原则详解","text":"七大设计原则详解","depth":1},{"id":"目录","text":"目录","depth":2},{"id":"1-单一职责原则single-responsibility-principle-srp","text":"🧱 1️⃣ 单一职责原则（Single Responsibility Principle, SRP）","depth":2},{"id":"定义","text":"📖 定义","depth":3},{"id":"反例","text":"🚫 反例","depth":3},{"id":"改进示例","text":"✅ 改进示例","depth":3},{"id":"优点","text":"✅ 优点","depth":3},{"id":"缺点","text":"⚠️ 缺点","depth":3},{"id":"适用场景","text":"📍 适用场景","depth":3},{"id":"2-开放封闭原则open-closed-principle-ocp","text":"🔒 2️⃣ 开放封闭原则（Open Closed Principle, OCP）","depth":2},{"id":"定义","text":"📖 定义","depth":3},{"id":"反例","text":"🚫 反例","depth":3},{"id":"改进示例策略模式思想","text":"✅ 改进示例（策略模式思想）","depth":3},{"id":"优点","text":"✅ 优点","depth":3},{"id":"缺点","text":"⚠️ 缺点","depth":3},{"id":"适用场景","text":"📍 适用场景","depth":3},{"id":"3-里氏替换原则liskov-substitution-principle-lsp","text":"🧬 3️⃣ 里氏替换原则（Liskov Substitution Principle, LSP）","depth":2},{"id":"定义","text":"📖 定义","depth":3},{"id":"反例","text":"🚫 反例","depth":3},{"id":"改进示例","text":"✅ 改进示例","depth":3},{"id":"优点","text":"✅ 优点","depth":3},{"id":"缺点","text":"⚠️ 缺点","depth":3},{"id":"适用场景","text":"📍 适用场景","depth":3},{"id":"4-依赖倒置原则dependency-inversion-principle-dip","text":"🔄 4️⃣ 依赖倒置原则（Dependency Inversion Principle, DIP）","depth":2},{"id":"定义","text":"📖 定义","depth":3},{"id":"反例","text":"🚫 反例","depth":3},{"id":"改进示例","text":"✅ 改进示例","depth":3},{"id":"优点","text":"✅ 优点","depth":3},{"id":"缺点","text":"⚠️ 缺点","depth":3},{"id":"适用场景","text":"📍 适用场景","depth":3},{"id":"5-接口隔离原则interface-segregation-principle-isp","text":"⚙️ 5️⃣ 接口隔离原则（Interface Segregation Principle, ISP）","depth":2},{"id":"定义","text":"📖 定义","depth":3},{"id":"反例","text":"🚫 反例","depth":3},{"id":"改进示例","text":"✅ 改进示例","depth":3},{"id":"优点","text":"✅ 优点","depth":3},{"id":"缺点","text":"⚠️ 缺点","depth":3},{"id":"适用场景","text":"📍 适用场景","depth":3},{"id":"6-合成复用原则composition-reuse-principle-crp","text":"🧩 6️⃣ 合成复用原则（Composition Reuse Principle, CRP）","depth":2},{"id":"定义","text":"📖 定义","depth":3},{"id":"反例","text":"🚫 反例","depth":3},{"id":"改进示例","text":"✅ 改进示例","depth":3},{"id":"优点","text":"✅ 优点","depth":3},{"id":"缺点","text":"⚠️ 缺点","depth":3},{"id":"适用场景","text":"📍 适用场景","depth":3},{"id":"7-迪米特法则law-of-demeter-lod","text":"🔗 7️⃣ 迪米特法则（Law of Demeter, LoD）","depth":2},{"id":"定义","text":"📖 定义","depth":3},{"id":"反例","text":"🚫 反例","depth":3},{"id":"改进示例","text":"✅ 改进示例","depth":3},{"id":"优点","text":"✅ 优点","depth":3},{"id":"缺点","text":"⚠️ 缺点","depth":3},{"id":"适用场景","text":"📍 适用场景","depth":3},{"id":"快速参考表","text":"📊 快速参考表","depth":2},{"id":"8-七大原则的共同点与内在联系","text":"🌐 8️⃣ 七大原则的共同点与内在联系","depth":2},{"id":"核心目标","text":"📖 核心目标","depth":3},{"id":"逻辑关系图","text":"🔗 逻辑关系图","depth":3},{"id":"层次总结","text":"🧩 层次总结","depth":3},{"id":"协同作用","text":"⚙️ 协同作用","depth":3},{"id":"助记口诀","text":"🧩 助记口诀","depth":3},{"id":"总结","text":"💡 总结","depth":3}]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:[["$","title","0",{"children":"七大设计原则详解 - My Blog"}],["$","meta","1",{"name":"description","content":"面向对象编程中的七大设计原则,包含核心思想、Java 实现示例、优缺点分析及适用场景"}]]
+b:null

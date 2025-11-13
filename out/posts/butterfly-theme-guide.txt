@@ -1,22 +1,21 @@
 1:"$Sreact.fragment"
-2:I[75586,["/_next/static/chunks/87aedf1606f42cc5.js"],"default"]
-3:I[53501,["/_next/static/chunks/87aedf1606f42cc5.js"],"default"]
+2:I[92825,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"ClientSegmentRoot"]
+3:I[42525,["/_next/static/chunks/69e9c26e1d71ec67.js"],"default"]
 4:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"default"]
 5:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"default"]
-6:I[22016,["/_next/static/chunks/87aedf1606f42cc5.js","/_next/static/chunks/f4253184848d5de9.js"],""]
-7:I[50287,["/_next/static/chunks/87aedf1606f42cc5.js"],"default"]
-8:I[28129,["/_next/static/chunks/87aedf1606f42cc5.js"],"default"]
-a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"OutletBoundary"]
-b:"$Sreact.suspense"
-d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"ViewportBoundary"]
-f:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"MetadataBoundary"]
-11:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"default"]
-:HL["/_next/static/chunks/6d9e926fb553b30e.css","style"]
+6:I[22016,["/_next/static/chunks/69e9c26e1d71ec67.js","/_next/static/chunks/3b18bc2b8fba2eef.js"],""]
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+c:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"ViewportBoundary"]
+e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"MetadataBoundary"]
+10:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"default"]
+:HL["/_next/static/chunks/f6f348c1010b89e8.css","style"]
 :HC["/",""]
-0:{"P":null,"b":"nn_cYt4ywrIN0BS6BDto5","c":["","posts","butterfly-theme-guide"],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["slug","butterfly-theme-guide","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/6d9e926fb553b30e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/87aedf1606f42cc5.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"scroll-smooth","children":["$","body",null,{"className":"antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-[50vh] flex items-center justify-center","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"text-3xl font-semibold","children":"页面未找到"}],["$","p",null,{"className":"mt-2 text-zinc-600 dark:text-zinc-400","children":"可能该文章不存在或已被移除。"}],["$","div",null,{"className":"mt-6","children":["$","$L6",null,{"href":"/","className":"rounded-md border px-3 py-2 text-sm text-zinc-700 hover:text-black dark:text-zinc-300","children":"返回首页"}]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{}],["$","$L8",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L9",[["$","script","script-0",{"src":"/_next/static/chunks/f4253184848d5de9.js","async":true,"nonce":"$undefined"}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$@e"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$b",null,{"name":"Next.Metadata","children":"$@10"}]}]}],null]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
-12:I[39494,["/_next/static/chunks/87aedf1606f42cc5.js","/_next/static/chunks/f4253184848d5de9.js"],"default"]
-13:I[22495,["/_next/static/chunks/87aedf1606f42cc5.js","/_next/static/chunks/f4253184848d5de9.js"],"default"]
-14:T10b8,<h1>Butterfly 主题完整指南</h1>
+0:{"P":null,"b":"-Mlrc5xPbWIWO9oxHWXT7","c":["","posts","butterfly-theme-guide"],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["slug","butterfly-theme-guide","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/f6f348c1010b89e8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/69e9c26e1d71ec67.js","async":true,"nonce":"$undefined"}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-[50vh] flex items-center justify-center","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"text-3xl font-semibold","children":"页面未找到"}],["$","p",null,{"className":"mt-2 text-zinc-600 dark:text-zinc-400","children":"可能该文章不存在或已被移除。"}],["$","div",null,{"className":"mt-6","children":["$","$L6",null,{"href":"/","className":"rounded-md border px-3 py-2 text-sm text-zinc-700 hover:text-black dark:text-zinc-300","children":"返回首页"}]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@7"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",[["$","script","script-0",{"src":"/_next/static/chunks/3b18bc2b8fba2eef.js","async":true,"nonce":"$undefined"}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$@d"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$@f"}]}]}],null]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:"$0:f:0:1:0:props:children:1:props:serverProvidedParams:params"
+11:I[39494,["/_next/static/chunks/69e9c26e1d71ec67.js","/_next/static/chunks/3b18bc2b8fba2eef.js"],"default"]
+12:I[22495,["/_next/static/chunks/69e9c26e1d71ec67.js","/_next/static/chunks/3b18bc2b8fba2eef.js"],"default"]
+13:T168b,<h1>Butterfly 主题完整指南</h1>
 <p>欢迎使用 Butterfly 主题！这是一个基于 Next.js 构建的现代化博客主题，采用卡片式设计理念，提供优秀的视觉体验和丰富的功能。</p>
 <h2>核心特性</h2>
 <h3>🎨 卡片式设计</h3>
@@ -69,49 +68,49 @@ f:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabd
 <h2>使用技巧</h2>
 <h3>编写文章</h3>
 <p>在 <code>posts/</code> 目录下创建 Markdown 文件：</p>
-<pre><code class="language-markdown">---
+<pre><code class="hljs language-markdown">---
 title: 文章标题
 date: 2025-11-10
 description: 文章描述
 category: 分类名称
 tags:
-  - 标签1
-  - 标签2
-banner: 封面图URL
----
+<span class="hljs-bullet">  -</span> 标签1
+<span class="hljs-bullet">  -</span> 标签2
+<span class="hljs-section">banner: 封面图URL
+---</span>
 
 文章内容...
 </code></pre>
 <h3>自定义配色</h3>
 <p>编辑 <code>app/globals.css</code> 中的 CSS 变量：</p>
-<pre><code class="language-css">:root {
-  --accent: #6366f1;
-  --radius-card: 16px;
+<pre><code class="hljs language-css"><span class="hljs-selector-pseudo">:root</span> {
+  <span class="hljs-attr">--accent</span>: <span class="hljs-number">#6366f1</span>;
+  <span class="hljs-attr">--radius-card</span>: <span class="hljs-number">16px</span>;
 }
 </code></pre>
 <h3>添加组件</h3>
 <p>在 <code>app/components/</code> 目录下创建新组件，然后在页面中引入使用。</p>
 <h2>代码示例</h2>
 <h3>TypeScript</h3>
-<pre><code class="language-typescript">interface Post {
-  title: string;
-  date: string;
-  category?: string;
-  tags?: string[];
+<pre><code class="hljs language-typescript"><span class="hljs-keyword">interface</span> <span class="hljs-title class_">Post</span> {
+  <span class="hljs-attr">title</span>: <span class="hljs-built_in">string</span>;
+  <span class="hljs-attr">date</span>: <span class="hljs-built_in">string</span>;
+  <span class="hljs-attr">category</span>?: <span class="hljs-built_in">string</span>;
+  <span class="hljs-attr">tags</span>?: <span class="hljs-built_in">string</span>[];
 }
 
-function getPostBySlug(slug: string): Post {
-  // 实现逻辑
-  return post;
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">getPostBySlug</span>(<span class="hljs-params"><span class="hljs-attr">slug</span>: <span class="hljs-built_in">string</span></span>): <span class="hljs-title class_">Post</span> {
+  <span class="hljs-comment">// 实现逻辑</span>
+  <span class="hljs-keyword">return</span> post;
 }
 </code></pre>
 <h3>React 组件</h3>
-<pre><code class="language-tsx">export default function Card({ title, children }: CardProps) {
-  return (
-    &#x3C;div className="card card-hover p-6">
-      &#x3C;h2>{title}&#x3C;/h2>
+<pre><code class="hljs language-tsx"><span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">Card</span>(<span class="hljs-params">{ title, children }: <span class="hljs-title class_">CardProps</span></span>) {
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span> <span class="hljs-attr">className</span>=<span class="hljs-string">"card card-hover p-6"</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h2</span>></span>{title}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h2</span>></span>
       {children}
-    &#x3C;/div>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
   );
 }
 </code></pre>
@@ -168,13 +167,12 @@ function getPostBySlug(slug: string): Post {
 <li><a href="https://github.com/">GitHub 仓库</a></li>
 <li><a href="https://demo.example.com">在线演示</a></li>
 <li><a href="https://docs.example.com">使用文档</a></li>
-</ul>
-9:["$","div",null,{"className":"min-h-screen font-sans","children":[["$","$L12",null,{"banner":"https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1920&auto=format&fit=crop","contentBackground":"$undefined","title":"Butterfly 主题完整指南"}],["$","main",null,{"className":"relative z-10 w-full bg-zinc-50/95 dark:bg-black/95 backdrop-blur-sm rounded-t-3xl shadow-2xl","children":["$","div",null,{"className":"max-w-5xl mx-auto py-10 px-6","children":[["$","header",null,{"className":"mb-6 card p-6","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold tracking-tight text-black dark:text-zinc-50 mb-4","children":"Butterfly 主题完整指南"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-zinc-600 dark:text-zinc-400 mb-4","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"children":"📅"}],["$","span",null,{"children":"Mon Nov 10 2025 08:00:00 GMT+0800 (中国标准时间)"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"children":"📂"}],["$","$L6",null,{"href":"/categories/%E6%95%99%E7%A8%8B","className":"hover:text-indigo-600 dark:hover:text-violet-400 transition-colors","children":"教程"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"children":"⏱️"}],["$","span",null,{"children":[2," min"]}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"children":"📝"}],["$","span",null,{"children":[277," 字"]}]]}]]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-4","children":[["$","$L6","Butterfly",{"href":"/tags/Butterfly","className":"badge text-xs","children":["🏷️ ","Butterfly"]}],["$","$L6","Next.js",{"href":"/tags/Next.js","className":"badge text-xs","children":["🏷️ ","Next.js"]}],["$","$L6","主题",{"href":"/tags/%E4%B8%BB%E9%A2%98","className":"badge text-xs","children":["🏷️ ","主题"]}],["$","$L6","设计",{"href":"/tags/%E8%AE%BE%E8%AE%A1","className":"badge text-xs","children":["🏷️ ","设计"]}]]}],["$","div",null,{"className":"flex gap-2 pt-4 border-t border-zinc-200 dark:border-zinc-800","children":[["$","$L6",null,{"href":"/","className":"btn text-sm","children":"← 返回首页"}],["$","$L6",null,{"href":"/categories/%E6%95%99%E7%A8%8B","className":"btn text-sm","children":["📂 更多","教程"]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1fr)_300px]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L13",null,{"html":"$14"}],"$L15","$L16"]}],"$L17"]}]]}]}]]}]
-18:I[44813,["/_next/static/chunks/87aedf1606f42cc5.js","/_next/static/chunks/f4253184848d5de9.js"],"default"]
-19:I[88393,["/_next/static/chunks/87aedf1606f42cc5.js","/_next/static/chunks/f4253184848d5de9.js"],"default"]
-15:["$","$L18",null,{"title":"Butterfly 主题完整指南"}]
-16:["$","section",null,{"className":"mt-10 card card-hover p-4 text-sm text-zinc-600 dark:text-zinc-300","children":"评论系统未集成（Twikoo/Waline/Valine 等）。如需启用，请告知您偏好的方案。"}]
-17:["$","div",null,{"className":"space-y-4","children":["$","$L19",null,{"toc":[{"id":"butterfly-主题完整指南","text":"Butterfly 主题完整指南","depth":1},{"id":"核心特性","text":"核心特性","depth":2},{"id":"卡片式设计","text":"🎨 卡片式设计","depth":3},{"id":"双色主题","text":"🌓 双色主题","depth":3},{"id":"性能优化","text":"⚡ 性能优化","depth":3},{"id":"页面布局","text":"页面布局","depth":2},{"id":"首页","text":"首页","depth":3},{"id":"文章详情页","text":"文章详情页","depth":3},{"id":"归档页","text":"归档页","depth":3},{"id":"分类-标签","text":"分类 & 标签","depth":3},{"id":"使用技巧","text":"使用技巧","depth":2},{"id":"编写文章","text":"编写文章","depth":3},{"id":"自定义配色","text":"自定义配色","depth":3},{"id":"添加组件","text":"添加组件","depth":3},{"id":"代码示例","text":"代码示例","depth":2},{"id":"typescript","text":"TypeScript","depth":3},{"id":"react-组件","text":"React 组件","depth":3},{"id":"表格示例","text":"表格示例","depth":2},{"id":"任务列表","text":"任务列表","depth":2},{"id":"引用","text":"引用","depth":2},{"id":"总结","text":"总结","depth":2}]}]}]
-e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-10:[["$","title","0",{"children":"Butterfly 主题完整指南 - My Blog"}],["$","meta","1",{"name":"description","content":"深入了解 Butterfly 主题的设计理念、核心特性和使用技巧，打造属于你的个性化博客"}]]
-c:null
+</ul>8:["$","div",null,{"className":"min-h-screen font-sans","children":[["$","$L11",null,{"banner":"https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1920&auto=format&fit=crop","contentBackground":"$undefined","title":"Butterfly 主题完整指南"}],["$","main",null,{"className":"relative z-10 w-full bg-zinc-50/95 dark:bg-black/95 backdrop-blur-sm rounded-t-3xl shadow-2xl","children":["$","div",null,{"className":"max-w-5xl mx-auto py-10 px-6","children":[["$","header",null,{"className":"mb-6 card p-6","children":[["$","h2",null,{"className":"text-2xl md:text-3xl font-bold tracking-tight text-black dark:text-zinc-50 mb-4","children":"Butterfly 主题完整指南"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-zinc-600 dark:text-zinc-400 mb-4","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"children":"📅"}],["$","span",null,{"children":"Mon Nov 10 2025 08:00:00 GMT+0800 (中国标准时间)"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"children":"📂"}],["$","$L6",null,{"href":"/categories/%E6%95%99%E7%A8%8B","className":"hover:text-indigo-600 dark:hover:text-violet-400 transition-colors","children":"教程"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"children":"⏱️"}],["$","span",null,{"children":[2," min"]}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"children":"📝"}],["$","span",null,{"children":[277," 字"]}]]}]]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-4","children":[["$","$L6","Butterfly",{"href":"/tags/Butterfly","className":"badge text-xs","children":["🏷️ ","Butterfly"]}],["$","$L6","Next.js",{"href":"/tags/Next.js","className":"badge text-xs","children":["🏷️ ","Next.js"]}],["$","$L6","主题",{"href":"/tags/%E4%B8%BB%E9%A2%98","className":"badge text-xs","children":["🏷️ ","主题"]}],["$","$L6","设计",{"href":"/tags/%E8%AE%BE%E8%AE%A1","className":"badge text-xs","children":["🏷️ ","设计"]}]]}],["$","div",null,{"className":"flex gap-2 pt-4 border-t border-zinc-200 dark:border-zinc-800","children":[["$","$L6",null,{"href":"/","className":"btn text-sm","children":"← 返回首页"}],["$","$L6",null,{"href":"/categories/%E6%95%99%E7%A8%8B","className":"btn text-sm","children":["📂 更多","教程"]}]]}]]}],["$","div",null,{"className":"grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1fr)_300px]","children":[["$","div",null,{"className":"min-w-0","children":[["$","$L12",null,{"html":"$13"}],"$L14","$L15"]}],"$L16"]}]]}]}]]}]
+17:I[44813,["/_next/static/chunks/69e9c26e1d71ec67.js","/_next/static/chunks/3b18bc2b8fba2eef.js"],"default"]
+18:I[88393,["/_next/static/chunks/69e9c26e1d71ec67.js","/_next/static/chunks/3b18bc2b8fba2eef.js"],"default"]
+14:["$","$L17",null,{"title":"Butterfly 主题完整指南"}]
+15:["$","section",null,{"className":"mt-10 card card-hover p-4 text-sm text-zinc-600 dark:text-zinc-300","children":"评论系统未集成（Twikoo/Waline/Valine 等）。如需启用，请告知您偏好的方案。"}]
+16:["$","div",null,{"className":"space-y-4","children":["$","$L18",null,{"toc":[{"id":"butterfly-主题完整指南","text":"Butterfly 主题完整指南","depth":1},{"id":"核心特性","text":"核心特性","depth":2},{"id":"卡片式设计","text":"🎨 卡片式设计","depth":3},{"id":"双色主题","text":"🌓 双色主题","depth":3},{"id":"性能优化","text":"⚡ 性能优化","depth":3},{"id":"页面布局","text":"页面布局","depth":2},{"id":"首页","text":"首页","depth":3},{"id":"文章详情页","text":"文章详情页","depth":3},{"id":"归档页","text":"归档页","depth":3},{"id":"分类-标签","text":"分类 & 标签","depth":3},{"id":"使用技巧","text":"使用技巧","depth":2},{"id":"编写文章","text":"编写文章","depth":3},{"id":"自定义配色","text":"自定义配色","depth":3},{"id":"添加组件","text":"添加组件","depth":3},{"id":"代码示例","text":"代码示例","depth":2},{"id":"typescript","text":"TypeScript","depth":3},{"id":"react-组件","text":"React 组件","depth":3},{"id":"表格示例","text":"表格示例","depth":2},{"id":"任务列表","text":"任务列表","depth":2},{"id":"引用","text":"引用","depth":2},{"id":"总结","text":"总结","depth":2}]}]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:[["$","title","0",{"children":"Butterfly 主题完整指南 - My Blog"}],["$","meta","1",{"name":"description","content":"深入了解 Butterfly 主题的设计理念、核心特性和使用技巧，打造属于你的个性化博客"}]]
+b:null
