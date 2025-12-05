@@ -1,0 +1,320 @@
+1:"$Sreact.fragment"
+2:I[39494,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+3:I[22016,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],""]
+e:I[22495,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+12:I[88393,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[44813,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+0:{"buildId":"2Ozkn6_1m22k4rI__ncKq","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative","children":[["$","div",null,{"className":"fixed inset-0 -z-20 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 left-0 w-96 h-96 bg-purple-500/10 rounded-full blur-3xl animate-pulse","style":{"animationDuration":"4s"}}],["$","div",null,{"className":"absolute top-1/4 right-0 w-96 h-96 bg-pink-500/10 rounded-full blur-3xl animate-pulse","style":{"animationDuration":"5s","animationDelay":"1s"}}],["$","div",null,{"className":"absolute bottom-0 left-1/3 w-96 h-96 bg-blue-500/10 rounded-full blur-3xl animate-pulse","style":{"animationDuration":"6s","animationDelay":"2s"}}]]}],["$","$L2",null,{"banner":"https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1920&auto=format&fit=crop","title":"Spring Boot AOP 完整指南（二）：基础使用和切入点表达式"}],["$","main",null,{"className":"relative z-10 w-full bg-gradient-to-b from-zinc-50/98 via-white/95 to-zinc-50/98 dark:from-black/98 dark:via-zinc-950/95 dark:to-black/98 backdrop-blur-md shadow-2xl","children":["$","div",null,{"className":"max-w-7xl mx-auto py-12 px-6","children":["$","div",null,{"className":"flex gap-8 items-start","children":[["$","div",null,{"className":"flex-1 min-w-0 max-w-4xl","children":[["$","header",null,{"className":"mb-8 relative","children":[["$","div",null,{"className":"absolute -inset-6 bg-gradient-to-r from-purple-500/10 via-pink-500/10 to-purple-500/10 rounded-3xl blur-2xl -z-10"}],["$","div",null,{"className":"relative rounded-2xl bg-gradient-to-br from-white/90 via-purple-50/50 to-pink-50/30 dark:from-zinc-900/90 dark:via-purple-950/30 dark:to-pink-950/20 backdrop-blur-xl border border-purple-200/50 dark:border-purple-800/30 p-8 shadow-2xl","children":[["$","div",null,{"className":"absolute top-0 left-0 right-0 h-1.5 bg-gradient-to-r from-purple-500 via-pink-500 to-purple-500 rounded-t-2xl"}],["$","h2",null,{"className":"text-3xl md:text-4xl font-extrabold tracking-tight bg-gradient-to-r from-purple-600 via-pink-600 to-purple-600 bg-clip-text text-transparent mb-6 leading-tight","children":"Spring Boot AOP 完整指南（二）：基础使用和切入点表达式"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm mb-5","children":[["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-purple-100/80 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300 backdrop-blur-sm","children":[["$","span",null,{"children":"📅"}],["$","span",null,{"className":"font-medium","children":"Tue Dec 02 2025 08:00:00 GMT+0800 (中国标准时间)"}]]}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-pink-100/80 dark:bg-pink-900/30 text-pink-700 dark:text-pink-300 backdrop-blur-sm","children":[["$","span",null,{"children":"📂"}],["$","$L3",null,{"href":"/categories/%E6%95%99%E7%A8%8B","className":"font-medium hover:underline transition-all","children":"教程"}]]}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-100/80 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 backdrop-blur-sm","children":[["$","span",null,{"children":"⏱️"}],["$","span",null,{"className":"font-medium","children":[4," min"]}]]}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-green-100/80 dark:bg-green-900/30 text-green-700 dark:text-green-300 backdrop-blur-sm","children":[["$","span",null,{"children":"📝"}],["$","span",null,{"className":"font-medium","children":[665," 字"]}]]}]]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","$L3","Spring Boot",{"href":"/tags/Spring%20Boot","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":["$L4","$L5"]}],"$L6","$L7","$L8"]}],"$L9"]}]]}],"$La"]}],"$Lb"]}]}]}]]}],["$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+4:["$","span",null,{"className":"text-sm","children":"🏷️"}]
+5:["$","span",null,{"children":"Spring Boot"}]
+6:["$","$L3","AOP",{"href":"/tags/AOP","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"AOP"}]]}]
+7:["$","$L3","Java",{"href":"/tags/Java","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"Java"}]]}]
+8:["$","$L3","后端开发",{"href":"/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"后端开发"}]]}]
+9:["$","div",null,{"className":"flex flex-wrap gap-3 pt-6 border-t border-purple-200/50 dark:border-purple-800/30","children":[["$","$L3",null,{"href":"/","className":"group px-5 py-2.5 rounded-lg bg-white dark:bg-zinc-800 border-2 border-purple-300 dark:border-purple-700 text-purple-700 dark:text-purple-300 font-medium shadow-md hover:shadow-purple-500/30 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-2","children":[["$","svg",null,{"className":"w-4 h-4","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 19l-7-7m0 0l7-7m-7 7h18"}]}],["$","span",null,{"children":"返回首页"}]]}],["$","$L3",null,{"href":"/categories/%E6%95%99%E7%A8%8B","className":"group px-5 py-2.5 rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 text-white font-medium shadow-lg hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-2","children":[["$","span",null,{"children":"📂"}],["$","span",null,{"children":["更多","教程"]}]]}]]}]
+f:T4e75,<h1>Spring Boot AOP 完整指南（二）：基础使用和切入点表达式</h1>
+<h2>一、创建简单切面</h2>
+<p>在上一篇文章中，我们了解了 AOP 的基础概念和环境搭建。现在让我们开始实际编写切面代码。</p>
+<h3>1. 完整的切面示例</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-meta">@Slf4j</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">LogAspect</span> {
+
+    <span class="hljs-comment">// 定义切入点：匹配service包下所有类的所有方法</span>
+    <span class="hljs-meta">@Pointcut("execution(* com.example.service.*.*(..))")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">serviceMethods</span><span class="hljs-params">()</span> {}
+
+    <span class="hljs-comment">// 前置通知</span>
+    <span class="hljs-meta">@Before("serviceMethods()")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logBefore</span><span class="hljs-params">(JoinPoint joinPoint)</span> {
+        <span class="hljs-type">String</span> <span class="hljs-variable">methodName</span> <span class="hljs-operator">=</span> joinPoint.getSignature().getName();
+        log.info(<span class="hljs-string">"执行方法: {}"</span>, methodName);
+    }
+
+    <span class="hljs-comment">// 环绕通知</span>
+    <span class="hljs-meta">@Around("serviceMethods()")</span>
+    <span class="hljs-keyword">public</span> Object <span class="hljs-title function_">logAround</span><span class="hljs-params">(ProceedingJoinPoint joinPoint)</span> <span class="hljs-keyword">throws</span> Throwable {
+        <span class="hljs-type">long</span> <span class="hljs-variable">startTime</span> <span class="hljs-operator">=</span> System.currentTimeMillis();
+
+        <span class="hljs-comment">// 执行目标方法</span>
+        <span class="hljs-type">Object</span> <span class="hljs-variable">result</span> <span class="hljs-operator">=</span> joinPoint.proceed();
+
+        <span class="hljs-type">long</span> <span class="hljs-variable">endTime</span> <span class="hljs-operator">=</span> System.currentTimeMillis();
+        log.info(<span class="hljs-string">"方法执行耗时: {}ms"</span>, endTime - startTime);
+
+        <span class="hljs-keyword">return</span> result;
+    }
+
+    <span class="hljs-comment">// 返回通知</span>
+    <span class="hljs-meta">@AfterReturning(pointcut = "serviceMethods()", returning = "result")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logAfterReturning</span><span class="hljs-params">(JoinPoint joinPoint, Object result)</span> {
+        log.info(<span class="hljs-string">"方法返回值: {}"</span>, result);
+    }
+
+    <span class="hljs-comment">// 异常通知</span>
+    <span class="hljs-meta">@AfterThrowing(pointcut = "serviceMethods()", throwing = "error")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logAfterThrowing</span><span class="hljs-params">(JoinPoint joinPoint, Throwable error)</span> {
+        log.error(<span class="hljs-string">"方法抛出异常: {}"</span>, error.getMessage());
+    }
+}
+</code></pre>
+<h3>2. 通知类型详解</h3>
+<h4>@Before - 前置通知</h4>
+<p>在目标方法执行前执行，常用于参数校验、权限检查等。</p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Before("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logBefore</span><span class="hljs-params">(JoinPoint joinPoint)</span> {
+    <span class="hljs-type">String</span> <span class="hljs-variable">methodName</span> <span class="hljs-operator">=</span> joinPoint.getSignature().getName();
+    Object[] args = joinPoint.getArgs();
+    log.info(<span class="hljs-string">"执行方法: {}, 参数: {}"</span>, methodName, Arrays.toString(args));
+}
+</code></pre>
+<h4>@After - 后置通知</h4>
+<p>在目标方法执行后执行（无论是否抛出异常），常用于资源清理。</p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@After("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logAfter</span><span class="hljs-params">(JoinPoint joinPoint)</span> {
+    log.info(<span class="hljs-string">"方法执行完成: {}"</span>, joinPoint.getSignature().getName());
+}
+</code></pre>
+<h4>@AfterReturning - 返回通知</h4>
+<p>在目标方法正常返回后执行，可以获取返回值。</p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@AfterReturning(pointcut = "serviceMethods()", returning = "result")</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logAfterReturning</span><span class="hljs-params">(JoinPoint joinPoint, Object result)</span> {
+    log.info(<span class="hljs-string">"方法 {} 返回值: {}"</span>, joinPoint.getSignature().getName(), result);
+}
+</code></pre>
+<h4>@AfterThrowing - 异常通知</h4>
+<p>在目标方法抛出异常后执行，可以获取异常信息。</p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@AfterThrowing(pointcut = "serviceMethods()", throwing = "error")</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logAfterThrowing</span><span class="hljs-params">(JoinPoint joinPoint, Throwable error)</span> {
+    log.error(<span class="hljs-string">"方法 {} 抛出异常: {}"</span>,
+        joinPoint.getSignature().getName(), error.getMessage());
+}
+</code></pre>
+<h4>@Around - 环绕通知</h4>
+<p>最强大的通知类型，可以完全控制目标方法的执行。</p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Around("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> Object <span class="hljs-title function_">logAround</span><span class="hljs-params">(ProceedingJoinPoint joinPoint)</span> <span class="hljs-keyword">throws</span> Throwable {
+    log.info(<span class="hljs-string">"方法执行前"</span>);
+
+    <span class="hljs-keyword">try</span> {
+        <span class="hljs-comment">// 执行目标方法</span>
+        <span class="hljs-type">Object</span> <span class="hljs-variable">result</span> <span class="hljs-operator">=</span> joinPoint.proceed();
+        log.info(<span class="hljs-string">"方法执行成功"</span>);
+        <span class="hljs-keyword">return</span> result;
+    } <span class="hljs-keyword">catch</span> (Throwable e) {
+        log.error(<span class="hljs-string">"方法执行异常"</span>, e);
+        <span class="hljs-keyword">throw</span> e;
+    } <span class="hljs-keyword">finally</span> {
+        log.info(<span class="hljs-string">"方法执行完成"</span>);
+    }
+}
+</code></pre>
+<h2>二、切入点表达式详解</h2>
+<p>切入点表达式用于定义在哪些方法上应用切面逻辑。</p>
+<h3>1. execution 表达式（最常用）</h3>
+<p>execution 表达式是最常用的切入点表达式，格式如下：</p>
+<pre><code>execution(修饰符 返回类型 包.类.方法(参数))
+</code></pre>
+<h4>基本示例</h4>
+<pre><code class="hljs language-java"><span class="hljs-comment">// 匹配所有public方法</span>
+<span class="hljs-meta">@Pointcut("execution(public * *(..))")</span>
+
+<span class="hljs-comment">// 匹配service包下所有类的所有方法</span>
+<span class="hljs-meta">@Pointcut("execution(* com.example.service.*.*(..))")</span>
+
+<span class="hljs-comment">// 匹配service包及子包下所有类的所有方法</span>
+<span class="hljs-meta">@Pointcut("execution(* com.example.service..*.*(..))")</span>
+
+<span class="hljs-comment">// 匹配返回值为String的方法</span>
+<span class="hljs-meta">@Pointcut("execution(String com.example.service.*.*(..))")</span>
+
+<span class="hljs-comment">// 匹配特定参数的方法</span>
+<span class="hljs-meta">@Pointcut("execution(* com.example.service.*.*(Long))")</span>
+
+<span class="hljs-comment">// 匹配任意参数的方法</span>
+<span class="hljs-meta">@Pointcut("execution(* com.example.service.*.*(..))")</span>
+</code></pre>
+<h4>通配符说明</h4>
+<ul>
+<li><code>*</code>：匹配任意字符，但只能匹配一个元素</li>
+<li><code>..</code>：匹配任意字符，可以匹配多个元素</li>
+<li><code>+</code>：匹配指定类及其子类</li>
+</ul>
+<pre><code class="hljs language-java"><span class="hljs-comment">// * 示例</span>
+<span class="hljs-meta">@Pointcut("execution(* com.example.service.*.*(..))")</span>
+<span class="hljs-comment">// 匹配：com.example.service.UserService.getUser()</span>
+<span class="hljs-comment">// 不匹配：com.example.service.impl.UserServiceImpl.getUser()</span>
+
+<span class="hljs-comment">// .. 示例</span>
+<span class="hljs-meta">@Pointcut("execution(* com.example.service..*.*(..))")</span>
+<span class="hljs-comment">// 匹配：com.example.service.UserService.getUser()</span>
+<span class="hljs-comment">// 匹配：com.example.service.impl.UserServiceImpl.getUser()</span>
+
+<span class="hljs-comment">// + 示例</span>
+<span class="hljs-meta">@Pointcut("execution(* com.example.service.BaseService+.*(..))")</span>
+<span class="hljs-comment">// 匹配：BaseService及其所有子类的方法</span>
+</code></pre>
+<h3>2. within 表达式</h3>
+<p>within 表达式用于匹配特定类型内的方法。</p>
+<pre><code class="hljs language-java"><span class="hljs-comment">// 匹配service包下的所有类</span>
+<span class="hljs-meta">@Pointcut("within(com.example.service.*)")</span>
+
+<span class="hljs-comment">// 匹配service包及子包下的所有类</span>
+<span class="hljs-meta">@Pointcut("within(com.example.service..*)")</span>
+
+<span class="hljs-comment">// 匹配特定类</span>
+<span class="hljs-meta">@Pointcut("within(com.example.service.UserService)")</span>
+
+<span class="hljs-comment">// 匹配特定类及其子类</span>
+<span class="hljs-meta">@Pointcut("within(com.example.service.BaseService+)")</span>
+</code></pre>
+<h3>3. @annotation 表达式（推荐）</h3>
+<p>@annotation 表达式用于匹配带有特定注解的方法，这是最灵活和推荐的方式。</p>
+<pre><code class="hljs language-java"><span class="hljs-comment">// 匹配带有@Log注解的方法</span>
+<span class="hljs-meta">@Pointcut("@annotation(com.example.annotation.Log)")</span>
+
+<span class="hljs-comment">// 匹配带有@Transactional注解的方法</span>
+<span class="hljs-meta">@Pointcut("@annotation(org.springframework.transaction.annotation.Transactional)")</span>
+</code></pre>
+<h3>4. @within 表达式</h3>
+<p>@within 表达式用于匹配带有特定注解的类中的所有方法。</p>
+<pre><code class="hljs language-java"><span class="hljs-comment">// 匹配带有@Service注解的类中的所有方法</span>
+<span class="hljs-meta">@Pointcut("@within(org.springframework.stereotype.Service)")</span>
+
+<span class="hljs-comment">// 匹配带有@RestController注解的类中的所有方法</span>
+<span class="hljs-meta">@Pointcut("@within(org.springframework.web.bind.annotation.RestController)")</span>
+</code></pre>
+<h3>5. args 表达式</h3>
+<p>args 表达式用于匹配特定参数类型的方法。</p>
+<pre><code class="hljs language-java"><span class="hljs-comment">// 匹配参数为Long类型的方法</span>
+<span class="hljs-meta">@Pointcut("args(Long)")</span>
+
+<span class="hljs-comment">// 匹配参数为String和Long类型的方法</span>
+<span class="hljs-meta">@Pointcut("args(String, Long)")</span>
+
+<span class="hljs-comment">// 匹配第一个参数为String类型的方法</span>
+<span class="hljs-meta">@Pointcut("args(String, ..)")</span>
+</code></pre>
+<h3>6. 组合表达式</h3>
+<p>可以使用 <code>&#x26;&#x26;</code>、<code>||</code>、<code>!</code> 组合多个表达式。</p>
+<pre><code class="hljs language-java"><span class="hljs-comment">// 使用 &#x26;&#x26; (与)</span>
+<span class="hljs-meta">@Pointcut("execution(* com.example.service.*.*(..)) &#x26;&#x26; @annotation(org.springframework.transaction.annotation.Transactional)")</span>
+<span class="hljs-comment">// 匹配：service包下带有@Transactional注解的方法</span>
+
+<span class="hljs-comment">// 使用 || (或)</span>
+<span class="hljs-meta">@Pointcut("execution(* com.example.service.*.*(..)) || execution(* com.example.controller.*.*(..))")</span>
+<span class="hljs-comment">// 匹配：service包或controller包下的所有方法</span>
+
+<span class="hljs-comment">// 使用 ! (非)</span>
+<span class="hljs-meta">@Pointcut("execution(* com.example.service.*.*(..)) &#x26;&#x26; !execution(* com.example.service.*.get*(..))")</span>
+<span class="hljs-comment">// 匹配：service包下除了get开头的方法</span>
+
+<span class="hljs-comment">// 复杂组合</span>
+<span class="hljs-meta">@Pointcut("(execution(* com.example.service.*.*(..)) || execution(* com.example.controller.*.*(..))) &#x26;&#x26; @annotation(com.example.annotation.Log)")</span>
+<span class="hljs-comment">// 匹配：service或controller包下带有@Log注解的方法</span>
+</code></pre>
+<h2>三、切入点复用</h2>
+<p>可以定义多个切入点并复用它们。</p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">CommonPointcuts</span> {
+
+    <span class="hljs-comment">// 定义service层切入点</span>
+    <span class="hljs-meta">@Pointcut("execution(* com.example.service..*.*(..))")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">serviceLayer</span><span class="hljs-params">()</span> {}
+
+    <span class="hljs-comment">// 定义controller层切入点</span>
+    <span class="hljs-meta">@Pointcut("execution(* com.example.controller..*.*(..))")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">controllerLayer</span><span class="hljs-params">()</span> {}
+
+    <span class="hljs-comment">// 定义repository层切入点</span>
+    <span class="hljs-meta">@Pointcut("execution(* com.example.repository..*.*(..))")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">repositoryLayer</span><span class="hljs-params">()</span>
+
+    <span class="hljs-comment">// 定义所有层的切入点</span>
+    <span class="hljs-meta">@Pointcut("serviceLayer() || controllerLayer() || repositoryLayer()")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">allLayers</span><span class="hljs-params">()</span> {}
+}
+
+<span class="hljs-comment">// 在其他切面中使用</span>
+<span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-meta">@Slf4j</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">LogAspect</span> {
+
+    <span class="hljs-meta">@Before("com.example.aspect.CommonPointcuts.serviceLayer()")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logServiceMethod</span><span class="hljs-params">(JoinPoint joinPoint)</span> {
+        log.info(<span class="hljs-string">"Service方法执行: {}"</span>, joinPoint.getSignature().getName());
+    }
+
+    <span class="hljs-meta">@Before("com.example.aspect.CommonPointcuts.allLayers()")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logAllMethod</span><span class="hljs-params">(JoinPoint joinPoint)</span> {
+        log.info(<span class="hljs-string">"方法执行: {}"</span>, joinPoint.getSignature().getName());
+    }
+}
+</code></pre>
+<h2>四、实战示例</h2>
+<h3>1. 统计方法执行时间</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-meta">@Slf4j</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">PerformanceAspect</span> {
+
+    <span class="hljs-meta">@Around("execution(* com.example.service..*.*(..))")</span>
+    <span class="hljs-keyword">public</span> Object <span class="hljs-title function_">measureExecutionTime</span><span class="hljs-params">(ProceedingJoinPoint joinPoint)</span> <span class="hljs-keyword">throws</span> Throwable {
+        <span class="hljs-type">long</span> <span class="hljs-variable">startTime</span> <span class="hljs-operator">=</span> System.currentTimeMillis();
+
+        <span class="hljs-type">Object</span> <span class="hljs-variable">result</span> <span class="hljs-operator">=</span> joinPoint.proceed();
+
+        <span class="hljs-type">long</span> <span class="hljs-variable">endTime</span> <span class="hljs-operator">=</span> System.currentTimeMillis();
+        <span class="hljs-type">long</span> <span class="hljs-variable">duration</span> <span class="hljs-operator">=</span> endTime - startTime;
+
+        log.info(<span class="hljs-string">"方法 {} 执行耗时: {}ms"</span>,
+            joinPoint.getSignature().toShortString(), duration);
+
+        <span class="hljs-keyword">return</span> result;
+    }
+}
+</code></pre>
+<h3>2. 记录方法参数和返回值</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-meta">@Slf4j</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">LogAspect</span> {
+
+    <span class="hljs-meta">@Around("execution(* com.example.service..*.*(..))")</span>
+    <span class="hljs-keyword">public</span> Object <span class="hljs-title function_">logMethodExecution</span><span class="hljs-params">(ProceedingJoinPoint joinPoint)</span> <span class="hljs-keyword">throws</span> Throwable {
+        <span class="hljs-type">String</span> <span class="hljs-variable">methodName</span> <span class="hljs-operator">=</span> joinPoint.getSignature().toShortString();
+        Object[] args = joinPoint.getArgs();
+
+        log.info(<span class="hljs-string">"==> 执行方法: {}"</span>, methodName);
+        log.info(<span class="hljs-string">"==> 方法参数: {}"</span>, Arrays.toString(args));
+
+        <span class="hljs-keyword">try</span> {
+            <span class="hljs-type">Object</span> <span class="hljs-variable">result</span> <span class="hljs-operator">=</span> joinPoint.proceed();
+            log.info(<span class="hljs-string">"==> 方法返回: {}"</span>, result);
+            <span class="hljs-keyword">return</span> result;
+        } <span class="hljs-keyword">catch</span> (Throwable e) {
+            log.error(<span class="hljs-string">"==> 方法异常: {}"</span>, e.getMessage());
+            <span class="hljs-keyword">throw</span> e;
+        }
+    }
+}
+</code></pre>
+<h2>五、小结</h2>
+<p>本文介绍了 AOP 的基础使用和切入点表达式：</p>
+<ul>
+<li><strong>通知类型</strong>：@Before、@After、@AfterReturning、@AfterThrowing、@Around</li>
+<li><strong>切入点表达式</strong>：execution、within、@annotation、@within、args</li>
+<li><strong>表达式组合</strong>：使用 &#x26;&#x26;、||、! 组合多个表达式</li>
+<li><strong>切入点复用</strong>：定义公共切入点供多个切面使用</li>
+</ul>
+<p>下一篇文章将介绍如何使用自定义注解实现更优雅的 AOP 编程。</p>a:["$","div",null,{"className":"space-y-6","children":[["$","$Le",null,{"html":"$f"}],"$L10","$L11"]}]
+b:["$","aside",null,{"className":"hidden xl:block w-80 flex-shrink-0","children":["$","div",null,{"className":"sticky top-6","children":["$","$L12",null,{"toc":[{"id":"spring-boot-aop-完整指南二基础使用和切入点表达式","text":"Spring Boot AOP 完整指南（二）：基础使用和切入点表达式","depth":1},{"id":"一创建简单切面","text":"一、创建简单切面","depth":2},{"id":"1-完整的切面示例","text":"1. 完整的切面示例","depth":3},{"id":"2-通知类型详解","text":"2. 通知类型详解","depth":3},{"id":"二切入点表达式详解","text":"二、切入点表达式详解","depth":2},{"id":"1-execution-表达式最常用","text":"1. execution 表达式（最常用）","depth":3},{"id":"2-within-表达式","text":"2. within 表达式","depth":3},{"id":"3-annotation-表达式推荐","text":"3. @annotation 表达式（推荐）","depth":3},{"id":"4-within-表达式","text":"4. @within 表达式","depth":3},{"id":"5-args-表达式","text":"5. args 表达式","depth":3},{"id":"6-组合表达式","text":"6. 组合表达式","depth":3},{"id":"三切入点复用","text":"三、切入点复用","depth":2},{"id":"四实战示例","text":"四、实战示例","depth":2},{"id":"1-统计方法执行时间","text":"1. 统计方法执行时间","depth":3},{"id":"2-记录方法参数和返回值","text":"2. 记录方法参数和返回值","depth":3},{"id":"五小结","text":"五、小结","depth":2}]}]}]}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/810067374a9e0899.js","async":true}]
+d:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+10:["$","$L16",null,{"title":"Spring Boot AOP 完整指南（二）：基础使用和切入点表达式"}]
+11:["$","section",null,{"className":"mt-10 relative","children":[["$","div",null,{"className":"absolute -inset-4 bg-gradient-to-r from-blue-500/10 via-cyan-500/10 to-blue-500/10 rounded-2xl blur-xl -z-10"}],["$","div",null,{"className":"relative rounded-xl bg-gradient-to-br from-white/90 via-blue-50/60 to-cyan-50/40 dark:from-zinc-900/90 dark:via-blue-950/40 dark:to-cyan-950/20 backdrop-blur-sm border border-blue-200/50 dark:border-blue-800/30 p-8 shadow-xl","children":["$","div",null,{"className":"flex items-start gap-4","children":[["$","div",null,{"className":"flex-shrink-0 w-12 h-12 rounded-full bg-gradient-to-br from-blue-500 to-cyan-500 flex items-center justify-center shadow-lg shadow-blue-500/30","children":["$","svg",null,{"className":"w-6 h-6 text-white","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"}]}]}],["$","div",null,{"className":"flex-1","children":[["$","h3",null,{"className":"font-bold text-lg bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent mb-2","children":"💬 评论区"}],["$","p",null,{"className":"text-sm text-zinc-600 dark:text-zinc-300 leading-relaxed","children":"评论系统未集成（Twikoo/Waline/Valine 等）。如需启用，请告知您偏好的方案。"}],["$","div",null,{"className":"mt-4 flex gap-2","children":[["$","div",null,{"className":"px-3 py-1 rounded-full bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 text-xs font-medium","children":"Twikoo"}],["$","div",null,{"className":"px-3 py-1 rounded-full bg-cyan-100 dark:bg-cyan-900/30 text-cyan-700 dark:text-cyan-300 text-xs font-medium","children":"Waline"}],["$","div",null,{"className":"px-3 py-1 rounded-full bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 text-xs font-medium","children":"Valine"}]]}]]}]]}]}]]}]
+15:null

@@ -1,0 +1,428 @@
+1:"$Sreact.fragment"
+2:I[39494,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+3:I[22016,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],""]
+e:I[22495,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+12:I[88393,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[44813,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+0:{"buildId":"2Ozkn6_1m22k4rI__ncKq","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative","children":[["$","div",null,{"className":"fixed inset-0 -z-20 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 left-0 w-96 h-96 bg-purple-500/10 rounded-full blur-3xl animate-pulse","style":{"animationDuration":"4s"}}],["$","div",null,{"className":"absolute top-1/4 right-0 w-96 h-96 bg-pink-500/10 rounded-full blur-3xl animate-pulse","style":{"animationDuration":"5s","animationDelay":"1s"}}],["$","div",null,{"className":"absolute bottom-0 left-1/3 w-96 h-96 bg-blue-500/10 rounded-full blur-3xl animate-pulse","style":{"animationDuration":"6s","animationDelay":"2s"}}]]}],["$","$L2",null,{"banner":"https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1920&auto=format&fit=crop","title":"Spring Boot AOP 完整指南（三）：自定义注解实战"}],["$","main",null,{"className":"relative z-10 w-full bg-gradient-to-b from-zinc-50/98 via-white/95 to-zinc-50/98 dark:from-black/98 dark:via-zinc-950/95 dark:to-black/98 backdrop-blur-md shadow-2xl","children":["$","div",null,{"className":"max-w-7xl mx-auto py-12 px-6","children":["$","div",null,{"className":"flex gap-8 items-start","children":[["$","div",null,{"className":"flex-1 min-w-0 max-w-4xl","children":[["$","header",null,{"className":"mb-8 relative","children":[["$","div",null,{"className":"absolute -inset-6 bg-gradient-to-r from-purple-500/10 via-pink-500/10 to-purple-500/10 rounded-3xl blur-2xl -z-10"}],["$","div",null,{"className":"relative rounded-2xl bg-gradient-to-br from-white/90 via-purple-50/50 to-pink-50/30 dark:from-zinc-900/90 dark:via-purple-950/30 dark:to-pink-950/20 backdrop-blur-xl border border-purple-200/50 dark:border-purple-800/30 p-8 shadow-2xl","children":[["$","div",null,{"className":"absolute top-0 left-0 right-0 h-1.5 bg-gradient-to-r from-purple-500 via-pink-500 to-purple-500 rounded-t-2xl"}],["$","h2",null,{"className":"text-3xl md:text-4xl font-extrabold tracking-tight bg-gradient-to-r from-purple-600 via-pink-600 to-purple-600 bg-clip-text text-transparent mb-6 leading-tight","children":"Spring Boot AOP 完整指南（三）：自定义注解实战"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm mb-5","children":[["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-purple-100/80 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300 backdrop-blur-sm","children":[["$","span",null,{"children":"📅"}],["$","span",null,{"className":"font-medium","children":"Wed Dec 03 2025 08:00:00 GMT+0800 (中国标准时间)"}]]}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-pink-100/80 dark:bg-pink-900/30 text-pink-700 dark:text-pink-300 backdrop-blur-sm","children":[["$","span",null,{"children":"📂"}],["$","$L3",null,{"href":"/categories/%E6%95%99%E7%A8%8B","className":"font-medium hover:underline transition-all","children":"教程"}]]}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-100/80 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 backdrop-blur-sm","children":[["$","span",null,{"children":"⏱️"}],["$","span",null,{"className":"font-medium","children":[5," min"]}]]}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-green-100/80 dark:bg-green-900/30 text-green-700 dark:text-green-300 backdrop-blur-sm","children":[["$","span",null,{"children":"📝"}],["$","span",null,{"className":"font-medium","children":[939," 字"]}]]}]]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","$L3","Spring Boot",{"href":"/tags/Spring%20Boot","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],"$L4"]}],"$L5","$L6","$L7","$L8"]}],"$L9"]}]]}],"$La"]}],"$Lb"]}]}]}]]}],["$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+4:["$","span",null,{"children":"Spring Boot"}]
+5:["$","$L3","AOP",{"href":"/tags/AOP","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"AOP"}]]}]
+6:["$","$L3","Java",{"href":"/tags/Java","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"Java"}]]}]
+7:["$","$L3","后端开发",{"href":"/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"后端开发"}]]}]
+8:["$","$L3","注解",{"href":"/tags/%E6%B3%A8%E8%A7%A3","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"注解"}]]}]
+9:["$","div",null,{"className":"flex flex-wrap gap-3 pt-6 border-t border-purple-200/50 dark:border-purple-800/30","children":[["$","$L3",null,{"href":"/","className":"group px-5 py-2.5 rounded-lg bg-white dark:bg-zinc-800 border-2 border-purple-300 dark:border-purple-700 text-purple-700 dark:text-purple-300 font-medium shadow-md hover:shadow-purple-500/30 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-2","children":[["$","svg",null,{"className":"w-4 h-4","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 19l-7-7m0 0l7-7m-7 7h18"}]}],["$","span",null,{"children":"返回首页"}]]}],["$","$L3",null,{"href":"/categories/%E6%95%99%E7%A8%8B","className":"group px-5 py-2.5 rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 text-white font-medium shadow-lg hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-2","children":[["$","span",null,{"children":"📂"}],["$","span",null,{"children":["更多","教程"]}]]}]]}]
+f:T6411,<h1>Spring Boot AOP 完整指南（三）：自定义注解实战</h1>
+<h2>一、为什么使用自定义注解</h2>
+<p>使用自定义注解是 AOP 最优雅和灵活的实现方式，具有以下优势：</p>
+<ul>
+<li><strong>精确控制</strong>：只在需要的方法上添加注解，避免过度拦截</li>
+<li><strong>可读性强</strong>：注解本身就是文档，一眼就能看出方法的特性</li>
+<li><strong>灵活配置</strong>：通过注解参数灵活配置切面行为</li>
+<li><strong>易于维护</strong>：集中管理切面逻辑，修改方便</li>
+</ul>
+<h2>二、日志注解实战</h2>
+<h3>1. 定义日志注解</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Target(ElementType.METHOD)</span>
+<span class="hljs-meta">@Retention(RetentionPolicy.RUNTIME)</span>
+<span class="hljs-meta">@Documented</span>
+<span class="hljs-keyword">public</span> <span class="hljs-meta">@interface</span> Log {
+    <span class="hljs-comment">/**
+     * 操作描述
+     */</span>
+    String <span class="hljs-title function_">value</span><span class="hljs-params">()</span> <span class="hljs-keyword">default</span> <span class="hljs-string">""</span>;
+
+    <span class="hljs-comment">/**
+     * 日志类型
+     */</span>
+    String <span class="hljs-title function_">type</span><span class="hljs-params">()</span> <span class="hljs-keyword">default</span> <span class="hljs-string">"INFO"</span>;
+}
+</code></pre>
+<h3>2. 实现日志切面</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-meta">@Slf4j</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">LogAspect</span> {
+
+    <span class="hljs-meta">@Around("@annotation(logAnnotation)")</span>
+    <span class="hljs-keyword">public</span> Object <span class="hljs-title function_">around</span><span class="hljs-params">(ProceedingJoinPoint joinPoint, Log logAnnotation)</span> <span class="hljs-keyword">throws</span> Throwable {
+        <span class="hljs-comment">// 获取方法信息</span>
+        <span class="hljs-type">String</span> <span class="hljs-variable">className</span> <span class="hljs-operator">=</span> joinPoint.getTarget().getClass().getName();
+        <span class="hljs-type">String</span> <span class="hljs-variable">methodName</span> <span class="hljs-operator">=</span> joinPoint.getSignature().getName();
+        Object[] args = joinPoint.getArgs();
+
+        <span class="hljs-comment">// 记录开始日志</span>
+        log.info(<span class="hljs-string">"==> 开始执行: {}.{}"</span>, className, methodName);
+        log.info(<span class="hljs-string">"==> 操作描述: {}"</span>, logAnnotation.value());
+        log.info(<span class="hljs-string">"==> 请求参数: {}"</span>, Arrays.toString(args));
+
+        <span class="hljs-type">long</span> <span class="hljs-variable">startTime</span> <span class="hljs-operator">=</span> System.currentTimeMillis();
+
+        <span class="hljs-keyword">try</span> {
+            <span class="hljs-comment">// 执行目标方法</span>
+            <span class="hljs-type">Object</span> <span class="hljs-variable">result</span> <span class="hljs-operator">=</span> joinPoint.proceed();
+
+            <span class="hljs-type">long</span> <span class="hljs-variable">endTime</span> <span class="hljs-operator">=</span> System.currentTimeMillis();
+            log.info(<span class="hljs-string">"==> 执行成功，耗时: {}ms"</span>, endTime - startTime);
+            log.info(<span class="hljs-string">"==> 返回结果: {}"</span>, result);
+
+            <span class="hljs-keyword">return</span> result;
+        } <span class="hljs-keyword">catch</span> (Throwable e) {
+            log.error(<span class="hljs-string">"==> 执行异常: {}"</span>, e.getMessage(), e);
+            <span class="hljs-keyword">throw</span> e;
+        }
+    }
+}
+</code></pre>
+<h3>3. 使用日志注解</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Service</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">UserService</span> {
+
+    <span class="hljs-meta">@Log(value = "查询用户信息", type = "QUERY")</span>
+    <span class="hljs-keyword">public</span> User <span class="hljs-title function_">getUserById</span><span class="hljs-params">(Long id)</span> {
+        <span class="hljs-comment">// 业务逻辑</span>
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">User</span>(id, <span class="hljs-string">"张三"</span>);
+    }
+
+    <span class="hljs-meta">@Log(value = "创建用户", type = "CREATE")</span>
+    <span class="hljs-keyword">public</span> User <span class="hljs-title function_">createUser</span><span class="hljs-params">(User user)</span> {
+        <span class="hljs-comment">// 业务逻辑</span>
+        <span class="hljs-keyword">return</span> user;
+    }
+}
+</code></pre>
+<h2>三、权限校验注解实战</h2>
+<h3>1. 定义权限注解</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Target(ElementType.METHOD)</span>
+<span class="hljs-meta">@Retention(RetentionPolicy.RUNTIME)</span>
+<span class="hljs-meta">@Documented</span>
+<span class="hljs-keyword">public</span> <span class="hljs-meta">@interface</span> RequirePermission {
+    <span class="hljs-comment">/**
+     * 需要的权限列表（满足任意一个即可）
+     */</span>
+    String[] value();
+}
+</code></pre>
+<h3>2. 实现权限切面</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-meta">@Slf4j</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">PermissionAspect</span> {
+
+    <span class="hljs-meta">@Autowired</span>
+    <span class="hljs-keyword">private</span> UserService userService;
+
+    <span class="hljs-meta">@Around("@annotation(requirePermission)")</span>
+    <span class="hljs-keyword">public</span> Object <span class="hljs-title function_">checkPermission</span><span class="hljs-params">(ProceedingJoinPoint joinPoint,
+                                 RequirePermission requirePermission)</span> <span class="hljs-keyword">throws</span> Throwable {
+        <span class="hljs-comment">// 获取当前用户</span>
+        <span class="hljs-type">String</span> <span class="hljs-variable">currentUser</span> <span class="hljs-operator">=</span> getCurrentUser();
+
+        <span class="hljs-comment">// 获取需要的权限</span>
+        String[] requiredPermissions = requirePermission.value();
+
+        <span class="hljs-comment">// 检查权限</span>
+        <span class="hljs-type">boolean</span> <span class="hljs-variable">hasPermission</span> <span class="hljs-operator">=</span> userService.hasAnyPermission(currentUser, requiredPermissions);
+
+        <span class="hljs-keyword">if</span> (!hasPermission) {
+            log.warn(<span class="hljs-string">"用户 {} 没有权限访问方法 {}"</span>,
+                    currentUser, joinPoint.getSignature().getName());
+            <span class="hljs-keyword">throw</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">PermissionDeniedException</span>(<span class="hljs-string">"权限不足"</span>);
+        }
+
+        <span class="hljs-keyword">return</span> joinPoint.proceed();
+    }
+
+    <span class="hljs-keyword">private</span> String <span class="hljs-title function_">getCurrentUser</span><span class="hljs-params">()</span> {
+        <span class="hljs-comment">// 从SecurityContext或ThreadLocal获取当前用户</span>
+        <span class="hljs-keyword">return</span> SecurityContextHolder.getContext().getAuthentication().getName();
+    }
+}
+</code></pre>
+<h3>3. 使用权限注解</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Service</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">UserService</span> {
+
+    <span class="hljs-meta">@RequirePermission({"user:delete", "admin"})</span>
+    <span class="hljs-meta">@Log(value = "删除用户", type = "DELETE")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">deleteUser</span><span class="hljs-params">(Long id)</span> {
+        <span class="hljs-comment">// 删除用户逻辑</span>
+    }
+
+    <span class="hljs-meta">@RequirePermission("user:update")</span>
+    <span class="hljs-meta">@Log(value = "更新用户信息", type = "UPDATE")</span>
+    <span class="hljs-keyword">public</span> User <span class="hljs-title function_">updateUser</span><span class="hljs-params">(User user)</span> {
+        <span class="hljs-comment">// 更新用户逻辑</span>
+        <span class="hljs-keyword">return</span> user;
+    }
+}
+</code></pre>
+<h2>四、缓存注解实战</h2>
+<h3>1. 定义缓存注解</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Target(ElementType.METHOD)</span>
+<span class="hljs-meta">@Retention(RetentionPolicy.RUNTIME)</span>
+<span class="hljs-meta">@Documented</span>
+<span class="hljs-keyword">public</span> <span class="hljs-meta">@interface</span> Cache {
+    <span class="hljs-comment">/**
+     * 缓存键前缀
+     */</span>
+    String <span class="hljs-title function_">key</span><span class="hljs-params">()</span> <span class="hljs-keyword">default</span> <span class="hljs-string">""</span>;
+
+    <span class="hljs-comment">/**
+     * 过期时间（秒）
+     */</span>
+    <span class="hljs-type">int</span> <span class="hljs-title function_">expire</span><span class="hljs-params">()</span> <span class="hljs-keyword">default</span> <span class="hljs-number">3600</span>;
+}
+</code></pre>
+<h3>2. 实现缓存切面</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-meta">@Slf4j</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">CacheAspect</span> {
+
+    <span class="hljs-meta">@Autowired</span>
+    <span class="hljs-keyword">private</span> RedisTemplate&#x3C;String, Object> redisTemplate;
+
+    <span class="hljs-meta">@Around("@annotation(cache)")</span>
+    <span class="hljs-keyword">public</span> Object <span class="hljs-title function_">cacheData</span><span class="hljs-params">(ProceedingJoinPoint joinPoint, Cache cache)</span> <span class="hljs-keyword">throws</span> Throwable {
+        <span class="hljs-comment">// 生成缓存key</span>
+        <span class="hljs-type">String</span> <span class="hljs-variable">cacheKey</span> <span class="hljs-operator">=</span> generateCacheKey(joinPoint, cache.key());
+
+        <span class="hljs-comment">// 尝试从缓存获取</span>
+        <span class="hljs-type">Object</span> <span class="hljs-variable">cachedResult</span> <span class="hljs-operator">=</span> redisTemplate.opsForValue().get(cacheKey);
+        <span class="hljs-keyword">if</span> (cachedResult != <span class="hljs-literal">null</span>) {
+            log.info(<span class="hljs-string">"从缓存获取数据: {}"</span>, cacheKey);
+            <span class="hljs-keyword">return</span> cachedResult;
+        }
+
+        <span class="hljs-comment">// 执行方法获取结果</span>
+        <span class="hljs-type">Object</span> <span class="hljs-variable">result</span> <span class="hljs-operator">=</span> joinPoint.proceed();
+
+        <span class="hljs-comment">// 存入缓存</span>
+        <span class="hljs-keyword">if</span> (result != <span class="hljs-literal">null</span>) {
+            redisTemplate.opsForValue().set(cacheKey, result,
+                    cache.expire(), TimeUnit.SECONDS);
+            log.info(<span class="hljs-string">"数据已缓存: {}, 过期时间: {}秒"</span>, cacheKey, cache.expire());
+        }
+
+        <span class="hljs-keyword">return</span> result;
+    }
+
+    <span class="hljs-keyword">private</span> String <span class="hljs-title function_">generateCacheKey</span><span class="hljs-params">(ProceedingJoinPoint joinPoint, String keyPrefix)</span> {
+        <span class="hljs-type">String</span> <span class="hljs-variable">className</span> <span class="hljs-operator">=</span> joinPoint.getTarget().getClass().getSimpleName();
+        <span class="hljs-type">String</span> <span class="hljs-variable">methodName</span> <span class="hljs-operator">=</span> joinPoint.getSignature().getName();
+        Object[] args = joinPoint.getArgs();
+
+        <span class="hljs-keyword">if</span> (keyPrefix.isEmpty()) {
+            <span class="hljs-keyword">return</span> String.format(<span class="hljs-string">"%s:%s:%s"</span>, className, methodName,
+                    Arrays.toString(args));
+        }
+        <span class="hljs-keyword">return</span> keyPrefix + <span class="hljs-string">":"</span> + Arrays.toString(args);
+    }
+}
+</code></pre>
+<h3>3. 使用缓存注解</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Service</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">UserService</span> {
+
+    <span class="hljs-meta">@Cache(key = "user_list", expire = 600)</span>
+    <span class="hljs-meta">@Log(value = "查询用户列表", type = "QUERY")</span>
+    <span class="hljs-keyword">public</span> List&#x3C;User> <span class="hljs-title function_">getUserList</span><span class="hljs-params">()</span> {
+        <span class="hljs-comment">// 查询用户列表</span>
+        <span class="hljs-keyword">return</span> Arrays.asList(<span class="hljs-keyword">new</span> <span class="hljs-title class_">User</span>(<span class="hljs-number">1L</span>, <span class="hljs-string">"张三"</span>), <span class="hljs-keyword">new</span> <span class="hljs-title class_">User</span>(<span class="hljs-number">2L</span>, <span class="hljs-string">"李四"</span>));
+    }
+
+    <span class="hljs-meta">@Cache(key = "user", expire = 300)</span>
+    <span class="hljs-keyword">public</span> User <span class="hljs-title function_">getUserById</span><span class="hljs-params">(Long id)</span> {
+        <span class="hljs-comment">// 查询用户</span>
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">User</span>(id, <span class="hljs-string">"张三"</span>);
+    }
+}
+</code></pre>
+<h2>五、限流注解实战</h2>
+<h3>1. 定义限流注解</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Target(ElementType.METHOD)</span>
+<span class="hljs-meta">@Retention(RetentionPolicy.RUNTIME)</span>
+<span class="hljs-meta">@Documented</span>
+<span class="hljs-keyword">public</span> <span class="hljs-meta">@interface</span> RateLimit {
+    <span class="hljs-comment">/**
+     * 限制次数
+     */</span>
+    <span class="hljs-type">int</span> <span class="hljs-title function_">limit</span><span class="hljs-params">()</span> <span class="hljs-keyword">default</span> <span class="hljs-number">10</span>;
+
+    <span class="hljs-comment">/**
+     * 时间周期（秒）
+     */</span>
+    <span class="hljs-type">int</span> <span class="hljs-title function_">period</span><span class="hljs-params">()</span> <span class="hljs-keyword">default</span> <span class="hljs-number">60</span>;
+}
+</code></pre>
+<h3>2. 实现限流切面</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-meta">@Slf4j</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">RateLimitAspect</span> {
+
+    <span class="hljs-meta">@Autowired</span>
+    <span class="hljs-keyword">private</span> RedisTemplate&#x3C;String, String> redisTemplate;
+
+    <span class="hljs-meta">@Before("@annotation(rateLimit)")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">checkRateLimit</span><span class="hljs-params">(JoinPoint joinPoint, RateLimit rateLimit)</span> {
+        <span class="hljs-type">String</span> <span class="hljs-variable">key</span> <span class="hljs-operator">=</span> generateRateLimitKey(joinPoint);
+
+        <span class="hljs-comment">// 获取当前访问次数</span>
+        <span class="hljs-type">String</span> <span class="hljs-variable">countStr</span> <span class="hljs-operator">=</span> redisTemplate.opsForValue().get(key);
+        <span class="hljs-type">int</span> <span class="hljs-variable">count</span> <span class="hljs-operator">=</span> countStr == <span class="hljs-literal">null</span> ? <span class="hljs-number">0</span> : Integer.parseInt(countStr);
+
+        <span class="hljs-keyword">if</span> (count >= rateLimit.limit()) {
+            log.warn(<span class="hljs-string">"接口限流触发: {}, 当前访问次数: {}"</span>, key, count);
+            <span class="hljs-keyword">throw</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">RateLimitException</span>(<span class="hljs-string">"访问过于频繁，请稍后再试"</span>);
+        }
+
+        <span class="hljs-comment">// 增加访问次数</span>
+        <span class="hljs-keyword">if</span> (count == <span class="hljs-number">0</span>) {
+            redisTemplate.opsForValue().set(key, <span class="hljs-string">"1"</span>,
+                    rateLimit.period(), TimeUnit.SECONDS);
+        } <span class="hljs-keyword">else</span> {
+            redisTemplate.opsForValue().increment(key);
+        }
+    }
+
+    <span class="hljs-keyword">private</span> String <span class="hljs-title function_">generateRateLimitKey</span><span class="hljs-params">(JoinPoint joinPoint)</span> {
+        <span class="hljs-type">String</span> <span class="hljs-variable">className</span> <span class="hljs-operator">=</span> joinPoint.getTarget().getClass().getSimpleName();
+        <span class="hljs-type">String</span> <span class="hljs-variable">methodName</span> <span class="hljs-operator">=</span> joinPoint.getSignature().getName();
+        <span class="hljs-type">String</span> <span class="hljs-variable">userIp</span> <span class="hljs-operator">=</span> getCurrentUserIp();
+
+        <span class="hljs-keyword">return</span> String.format(<span class="hljs-string">"rate_limit:%s:%s:%s"</span>, className, methodName, userIp);
+    }
+
+    <span class="hljs-keyword">private</span> String <span class="hljs-title function_">getCurrentUserIp</span><span class="hljs-params">()</span> {
+        <span class="hljs-type">ServletRequestAttributes</span> <span class="hljs-variable">attributes</span> <span class="hljs-operator">=</span>
+            (ServletRequestAttributes) RequestContextHolder.getRequestAttributes();
+        <span class="hljs-keyword">if</span> (attributes != <span class="hljs-literal">null</span>) {
+            <span class="hljs-keyword">return</span> attributes.getRequest().getRemoteAddr();
+        }
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"unknown"</span>;
+    }
+}
+</code></pre>
+<h3>3. 使用限流注解</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Service</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">UserService</span> {
+
+    <span class="hljs-meta">@RateLimit(limit = 5, period = 60)</span>
+    <span class="hljs-meta">@Log(value = "发送验证码", type = "SEND")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">sendVerifyCode</span><span class="hljs-params">(String phone)</span> {
+        <span class="hljs-comment">// 发送验证码逻辑</span>
+    }
+
+    <span class="hljs-meta">@RateLimit(limit = 100, period = 60)</span>
+    <span class="hljs-keyword">public</span> List&#x3C;User> <span class="hljs-title function_">getUserList</span><span class="hljs-params">()</span> {
+        <span class="hljs-comment">// 查询用户列表</span>
+        <span class="hljs-keyword">return</span> Arrays.asList(<span class="hljs-keyword">new</span> <span class="hljs-title class_">User</span>(<span class="hljs-number">1L</span>, <span class="hljs-string">"张三"</span>), <span class="hljs-keyword">new</span> <span class="hljs-title class_">User</span>(<span class="hljs-number">2L</span>, <span class="hljs-string">"李四"</span>));
+    }
+}
+</code></pre>
+<h2>六、组合使用多个注解</h2>
+<p>多个注解可以组合使用，实现更强大的功能。</p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Service</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">UserService</span> {
+
+    <span class="hljs-comment">// 组合使用：权限校验 + 日志记录 + 缓存</span>
+    <span class="hljs-meta">@RequirePermission("user:query")</span>
+    <span class="hljs-meta">@Log(value = "查询用户列表", type = "QUERY")</span>
+    <span class="hljs-meta">@Cache(key = "user_list", expire = 600)</span>
+    <span class="hljs-keyword">public</span> List&#x3C;User> <span class="hljs-title function_">getUserList</span><span class="hljs-params">()</span> {
+        <span class="hljs-comment">// 查询用户列表</span>
+        <span class="hljs-keyword">return</span> Arrays.asList(<span class="hljs-keyword">new</span> <span class="hljs-title class_">User</span>(<span class="hljs-number">1L</span>, <span class="hljs-string">"张三"</span>), <span class="hljs-keyword">new</span> <span class="hljs-title class_">User</span>(<span class="hljs-number">2L</span>, <span class="hljs-string">"李四"</span>));
+    }
+
+    <span class="hljs-comment">// 组合使用：权限校验 + 日志记录</span>
+    <span class="hljs-meta">@RequirePermission({"user:delete", "admin"})</span>
+    <span class="hljs-meta">@Log(value = "删除用户", type = "DELETE")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">deleteUser</span><span class="hljs-params">(Long id)</span> {
+        <span class="hljs-comment">// 删除用户逻辑</span>
+    }
+
+    <span class="hljs-comment">// 组合使用：限流 + 日志记录</span>
+    <span class="hljs-meta">@RateLimit(limit = 5, period = 60)</span>
+    <span class="hljs-meta">@Log(value = "发送验证码", type = "SEND")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">sendVerifyCode</span><span class="hljs-params">(String phone)</span> {
+        <span class="hljs-comment">// 发送验证码逻辑</span>
+    }
+}
+</code></pre>
+<h2>七、注解执行顺序</h2>
+<p>当多个注解组合使用时，切面的执行顺序由 <code>@Order</code> 注解控制，数字越小优先级越高。</p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-meta">@Order(1)</span>  <span class="hljs-comment">// 优先级最高</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">PermissionAspect</span> {
+    <span class="hljs-comment">// 权限校验逻辑</span>
+}
+
+<span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-meta">@Order(2)</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">LogAspect</span> {
+    <span class="hljs-comment">// 日志记录逻辑</span>
+}
+
+<span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-meta">@Order(3)</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">CacheAspect</span> {
+    <span class="hljs-comment">// 缓存逻辑</span>
+}
+</code></pre>
+<p>执行顺序：</p>
+<pre><code>PermissionAspect - Before
+  LogAspect - Before
+    CacheAspect - Before
+      目标方法执行
+    CacheAspect - After
+  LogAspect - After
+PermissionAspect - After
+</code></pre>
+<h2>八、最佳实践</h2>
+<h3>1. 注解命名规范</h3>
+<ul>
+<li>使用清晰、简洁的名称</li>
+<li>遵循驼峰命名法</li>
+<li>避免使用缩写</li>
+</ul>
+<h3>2. 注解参数设计</h3>
+<ul>
+<li>提供合理的默认值</li>
+<li>参数名称要有意义</li>
+<li>添加详细的注释</li>
+</ul>
+<h3>3. 切面实现原则</h3>
+<ul>
+<li>保持切面逻辑简单</li>
+<li>避免在切面中执行耗时操作</li>
+<li>做好异常处理</li>
+<li>记录必要的日志</li>
+</ul>
+<h3>4. 性能优化</h3>
+<ul>
+<li>使用 <code>@annotation</code> 方式比 <code>execution</code> 表达式性能更好</li>
+<li>避免过度使用 AOP</li>
+<li>耗时操作考虑异步执行</li>
+</ul>
+<h2>九、小结</h2>
+<p>本文介绍了如何使用自定义注解实现 AOP 功能：</p>
+<ul>
+<li><strong>日志注解</strong>：记录方法执行信息</li>
+<li><strong>权限注解</strong>：实现方法级别的权限控制</li>
+<li><strong>缓存注解</strong>：自动管理方法结果缓存</li>
+<li><strong>限流注解</strong>：防止接口被频繁调用</li>
+<li><strong>注解组合</strong>：多个注解配合使用实现复杂功能</li>
+</ul>
+<p>下一篇文章将介绍 AOP 的高级技巧和实际应用场景。</p>a:["$","div",null,{"className":"space-y-6","children":[["$","$Le",null,{"html":"$f"}],"$L10","$L11"]}]
+b:["$","aside",null,{"className":"hidden xl:block w-80 flex-shrink-0","children":["$","div",null,{"className":"sticky top-6","children":["$","$L12",null,{"toc":[{"id":"spring-boot-aop-完整指南三自定义注解实战","text":"Spring Boot AOP 完整指南（三）：自定义注解实战","depth":1},{"id":"一为什么使用自定义注解","text":"一、为什么使用自定义注解","depth":2},{"id":"二日志注解实战","text":"二、日志注解实战","depth":2},{"id":"1-定义日志注解","text":"1. 定义日志注解","depth":3},{"id":"2-实现日志切面","text":"2. 实现日志切面","depth":3},{"id":"3-使用日志注解","text":"3. 使用日志注解","depth":3},{"id":"三权限校验注解实战","text":"三、权限校验注解实战","depth":2},{"id":"1-定义权限注解","text":"1. 定义权限注解","depth":3},{"id":"2-实现权限切面","text":"2. 实现权限切面","depth":3},{"id":"3-使用权限注解","text":"3. 使用权限注解","depth":3},{"id":"四缓存注解实战","text":"四、缓存注解实战","depth":2},{"id":"1-定义缓存注解","text":"1. 定义缓存注解","depth":3},{"id":"2-实现缓存切面","text":"2. 实现缓存切面","depth":3},{"id":"3-使用缓存注解","text":"3. 使用缓存注解","depth":3},{"id":"五限流注解实战","text":"五、限流注解实战","depth":2},{"id":"1-定义限流注解","text":"1. 定义限流注解","depth":3},{"id":"2-实现限流切面","text":"2. 实现限流切面","depth":3},{"id":"3-使用限流注解","text":"3. 使用限流注解","depth":3},{"id":"六组合使用多个注解","text":"六、组合使用多个注解","depth":2},{"id":"七注解执行顺序","text":"七、注解执行顺序","depth":2},{"id":"八最佳实践","text":"八、最佳实践","depth":2},{"id":"1-注解命名规范","text":"1. 注解命名规范","depth":3},{"id":"2-注解参数设计","text":"2. 注解参数设计","depth":3},{"id":"3-切面实现原则","text":"3. 切面实现原则","depth":3},{"id":"4-性能优化","text":"4. 性能优化","depth":3},{"id":"九小结","text":"九、小结","depth":2}]}]}]}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/810067374a9e0899.js","async":true}]
+d:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+10:["$","$L16",null,{"title":"Spring Boot AOP 完整指南（三）：自定义注解实战"}]
+11:["$","section",null,{"className":"mt-10 relative","children":[["$","div",null,{"className":"absolute -inset-4 bg-gradient-to-r from-blue-500/10 via-cyan-500/10 to-blue-500/10 rounded-2xl blur-xl -z-10"}],["$","div",null,{"className":"relative rounded-xl bg-gradient-to-br from-white/90 via-blue-50/60 to-cyan-50/40 dark:from-zinc-900/90 dark:via-blue-950/40 dark:to-cyan-950/20 backdrop-blur-sm border border-blue-200/50 dark:border-blue-800/30 p-8 shadow-xl","children":["$","div",null,{"className":"flex items-start gap-4","children":[["$","div",null,{"className":"flex-shrink-0 w-12 h-12 rounded-full bg-gradient-to-br from-blue-500 to-cyan-500 flex items-center justify-center shadow-lg shadow-blue-500/30","children":["$","svg",null,{"className":"w-6 h-6 text-white","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"}]}]}],["$","div",null,{"className":"flex-1","children":[["$","h3",null,{"className":"font-bold text-lg bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent mb-2","children":"💬 评论区"}],["$","p",null,{"className":"text-sm text-zinc-600 dark:text-zinc-300 leading-relaxed","children":"评论系统未集成（Twikoo/Waline/Valine 等）。如需启用，请告知您偏好的方案。"}],["$","div",null,{"className":"mt-4 flex gap-2","children":[["$","div",null,{"className":"px-3 py-1 rounded-full bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 text-xs font-medium","children":"Twikoo"}],["$","div",null,{"className":"px-3 py-1 rounded-full bg-cyan-100 dark:bg-cyan-900/30 text-cyan-700 dark:text-cyan-300 text-xs font-medium","children":"Waline"}],["$","div",null,{"className":"px-3 py-1 rounded-full bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 text-xs font-medium","children":"Valine"}]]}]]}]]}]}]]}]
+15:null

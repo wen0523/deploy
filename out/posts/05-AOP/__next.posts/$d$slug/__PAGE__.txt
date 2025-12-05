@@ -1,0 +1,522 @@
+1:"$Sreact.fragment"
+2:I[39494,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+3:I[22016,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],""]
+f:I[22495,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+13:I[88393,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+14:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[44813,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+0:{"buildId":"2Ozkn6_1m22k4rI__ncKq","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative","children":[["$","div",null,{"className":"fixed inset-0 -z-20 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 left-0 w-96 h-96 bg-purple-500/10 rounded-full blur-3xl animate-pulse","style":{"animationDuration":"4s"}}],["$","div",null,{"className":"absolute top-1/4 right-0 w-96 h-96 bg-pink-500/10 rounded-full blur-3xl animate-pulse","style":{"animationDuration":"5s","animationDelay":"1s"}}],["$","div",null,{"className":"absolute bottom-0 left-1/3 w-96 h-96 bg-blue-500/10 rounded-full blur-3xl animate-pulse","style":{"animationDuration":"6s","animationDelay":"2s"}}]]}],["$","$L2",null,{"banner":"https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1920&auto=format&fit=crop","title":"Spring Boot AOP 完整指南（五）：JoinPoint 详解和注解元信息"}],["$","main",null,{"className":"relative z-10 w-full bg-gradient-to-b from-zinc-50/98 via-white/95 to-zinc-50/98 dark:from-black/98 dark:via-zinc-950/95 dark:to-black/98 backdrop-blur-md shadow-2xl","children":["$","div",null,{"className":"max-w-7xl mx-auto py-12 px-6","children":["$","div",null,{"className":"flex gap-8 items-start","children":[["$","div",null,{"className":"flex-1 min-w-0 max-w-4xl","children":[["$","header",null,{"className":"mb-8 relative","children":[["$","div",null,{"className":"absolute -inset-6 bg-gradient-to-r from-purple-500/10 via-pink-500/10 to-purple-500/10 rounded-3xl blur-2xl -z-10"}],["$","div",null,{"className":"relative rounded-2xl bg-gradient-to-br from-white/90 via-purple-50/50 to-pink-50/30 dark:from-zinc-900/90 dark:via-purple-950/30 dark:to-pink-950/20 backdrop-blur-xl border border-purple-200/50 dark:border-purple-800/30 p-8 shadow-2xl","children":[["$","div",null,{"className":"absolute top-0 left-0 right-0 h-1.5 bg-gradient-to-r from-purple-500 via-pink-500 to-purple-500 rounded-t-2xl"}],["$","h2",null,{"className":"text-3xl md:text-4xl font-extrabold tracking-tight bg-gradient-to-r from-purple-600 via-pink-600 to-purple-600 bg-clip-text text-transparent mb-6 leading-tight","children":"Spring Boot AOP 完整指南（五）：JoinPoint 详解和注解元信息"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm mb-5","children":[["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-purple-100/80 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300 backdrop-blur-sm","children":[["$","span",null,{"children":"📅"}],["$","span",null,{"className":"font-medium","children":"Fri Dec 05 2025 08:00:00 GMT+0800 (中国标准时间)"}]]}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-pink-100/80 dark:bg-pink-900/30 text-pink-700 dark:text-pink-300 backdrop-blur-sm","children":[["$","span",null,{"children":"📂"}],["$","$L3",null,{"href":"/categories/%E6%95%99%E7%A8%8B","className":"font-medium hover:underline transition-all","children":"教程"}]]}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-100/80 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 backdrop-blur-sm","children":[["$","span",null,{"children":"⏱️"}],["$","span",null,{"className":"font-medium","children":[6," min"]}]]}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-green-100/80 dark:bg-green-900/30 text-green-700 dark:text-green-300 backdrop-blur-sm","children":[["$","span",null,{"children":"📝"}],["$","span",null,{"className":"font-medium","children":[1101," 字"]}]]}]]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","$L3","Spring Boot",{"href":"/tags/Spring%20Boot","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":["$L4","$L5"]}],"$L6","$L7","$L8","$L9"]}],"$La"]}]]}],"$Lb"]}],"$Lc"]}]}]}]]}],["$Ld"],"$Le"]}],"loading":null,"isPartial":false}
+4:["$","span",null,{"className":"text-sm","children":"🏷️"}]
+5:["$","span",null,{"children":"Spring Boot"}]
+6:["$","$L3","AOP",{"href":"/tags/AOP","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"AOP"}]]}]
+7:["$","$L3","Java",{"href":"/tags/Java","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"Java"}]]}]
+8:["$","$L3","后端开发",{"href":"/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"后端开发"}]]}]
+9:["$","$L3","注解",{"href":"/tags/%E6%B3%A8%E8%A7%A3","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"注解"}]]}]
+a:["$","div",null,{"className":"flex flex-wrap gap-3 pt-6 border-t border-purple-200/50 dark:border-purple-800/30","children":[["$","$L3",null,{"href":"/","className":"group px-5 py-2.5 rounded-lg bg-white dark:bg-zinc-800 border-2 border-purple-300 dark:border-purple-700 text-purple-700 dark:text-purple-300 font-medium shadow-md hover:shadow-purple-500/30 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-2","children":[["$","svg",null,{"className":"w-4 h-4","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 19l-7-7m0 0l7-7m-7 7h18"}]}],["$","span",null,{"children":"返回首页"}]]}],["$","$L3",null,{"href":"/categories/%E6%95%99%E7%A8%8B","className":"group px-5 py-2.5 rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 text-white font-medium shadow-lg hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-2","children":[["$","span",null,{"children":"📂"}],["$","span",null,{"children":["更多","教程"]}]]}]]}]
+10:T6a25,<h1>Spring Boot AOP 完整指南（五）：JoinPoint 详解和注解元信息</h1>
+<h2>一、JoinPoint 详解</h2>
+<h3>1. JoinPoint 是什么</h3>
+<p>JoinPoint 是 AOP 中的连接点对象，代表被拦截的方法。通过 JoinPoint 可以获取方法的各种信息。</p>
+<p><strong>适用范围：</strong> <code>@Before</code>、<code>@After</code>、<code>@AfterReturning</code>、<code>@AfterThrowing</code></p>
+<h3>2. JoinPoint 能获取什么信息</h3>
+<h4>2.1 获取方法参数</h4>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Before("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logBefore</span><span class="hljs-params">(JoinPoint joinPoint)</span> {
+    <span class="hljs-comment">// 获取方法参数</span>
+    Object[] args = joinPoint.getArgs();
+    log.info(<span class="hljs-string">"方法参数: {}"</span>, Arrays.toString(args));
+}
+</code></pre>
+<h4>2.2 获取目标对象</h4>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Before("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logBefore</span><span class="hljs-params">(JoinPoint joinPoint)</span> {
+    <span class="hljs-comment">// 获取目标对象（业务类本身，未被 AOP 包装的原始对象）</span>
+    <span class="hljs-type">Object</span> <span class="hljs-variable">target</span> <span class="hljs-operator">=</span> joinPoint.getTarget();
+    log.info(<span class="hljs-string">"目标对象: {}"</span>, target.getClass().getName());
+}
+</code></pre>
+<h4>2.3 获取代理对象</h4>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Before("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logBefore</span><span class="hljs-params">(JoinPoint joinPoint)</span> {
+    <span class="hljs-comment">// 获取代理对象（Spring 生成的动态代理对象）</span>
+    <span class="hljs-type">Object</span> <span class="hljs-variable">proxy</span> <span class="hljs-operator">=</span> joinPoint.getThis();
+    log.info(<span class="hljs-string">"代理对象: {}"</span>, proxy.getClass().getName());
+}
+</code></pre>
+<h4>2.4 获取方法签名</h4>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Before("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logBefore</span><span class="hljs-params">(JoinPoint joinPoint)</span> {
+    <span class="hljs-comment">// 获取方法签名</span>
+    <span class="hljs-type">MethodSignature</span> <span class="hljs-variable">signature</span> <span class="hljs-operator">=</span> (MethodSignature) joinPoint.getSignature();
+
+    <span class="hljs-comment">// 获取方法对象</span>
+    <span class="hljs-type">Method</span> <span class="hljs-variable">method</span> <span class="hljs-operator">=</span> signature.getMethod();
+
+    <span class="hljs-comment">// 获取方法名</span>
+    <span class="hljs-type">String</span> <span class="hljs-variable">methodName</span> <span class="hljs-operator">=</span> signature.getName();
+
+    <span class="hljs-comment">// 获取返回类型</span>
+    Class&#x3C;?> returnType = signature.getReturnType();
+
+    <span class="hljs-comment">// 获取参数类型</span>
+    Class&#x3C;?>[] parameterTypes = signature.getParameterTypes();
+
+    log.info(<span class="hljs-string">"方法名: {}"</span>, methodName);
+    log.info(<span class="hljs-string">"返回类型: {}"</span>, returnType.getName());
+    log.info(<span class="hljs-string">"参数类型: {}"</span>, Arrays.toString(parameterTypes));
+}
+</code></pre>
+<h4>2.5 获取类名、方法名、包名</h4>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Before("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logBefore</span><span class="hljs-params">(JoinPoint joinPoint)</span> {
+    <span class="hljs-comment">// 获取类名</span>
+    <span class="hljs-type">String</span> <span class="hljs-variable">className</span> <span class="hljs-operator">=</span> joinPoint.getSignature().getDeclaringTypeName();
+
+    <span class="hljs-comment">// 获取方法名</span>
+    <span class="hljs-type">String</span> <span class="hljs-variable">methodName</span> <span class="hljs-operator">=</span> joinPoint.getSignature().getName();
+
+    <span class="hljs-comment">// 获取完整方法签名</span>
+    <span class="hljs-type">String</span> <span class="hljs-variable">fullMethodName</span> <span class="hljs-operator">=</span> joinPoint.getSignature().toLongString();
+
+    <span class="hljs-comment">// 获取简短方法签名</span>
+    <span class="hljs-type">String</span> <span class="hljs-variable">shortMethodName</span> <span class="hljs-operator">=</span> joinPoint.getSignature().toShortString();
+
+    log.info(<span class="hljs-string">"类名: {}"</span>, className);
+    log.info(<span class="hljs-string">"方法名: {}"</span>, methodName);
+    log.info(<span class="hljs-string">"完整签名: {}"</span>, fullMethodName);
+    log.info(<span class="hljs-string">"简短签名: {}"</span>, shortMethodName);
+}
+</code></pre>
+<h4>2.6 获取类对象</h4>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Before("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logBefore</span><span class="hljs-params">(JoinPoint joinPoint)</span> {
+    <span class="hljs-comment">// 获取类对象</span>
+    Class&#x3C;?> targetClass = joinPoint.getTarget().getClass();
+
+    log.info(<span class="hljs-string">"类对象: {}"</span>, targetClass.getName());
+    log.info(<span class="hljs-string">"类的简单名称: {}"</span>, targetClass.getSimpleName());
+}
+</code></pre>
+<h4>2.7 获取方法上的注解</h4>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Before("@annotation(log)")</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">logBefore</span><span class="hljs-params">(JoinPoint joinPoint, Log log)</span> {
+    <span class="hljs-comment">// 方式一：通过参数直接获取注解</span>
+    log.info(<span class="hljs-string">"注解描述: {}"</span>, log.value());
+
+    <span class="hljs-comment">// 方式二：通过方法对象获取注解</span>
+    <span class="hljs-type">MethodSignature</span> <span class="hljs-variable">signature</span> <span class="hljs-operator">=</span> (MethodSignature) joinPoint.getSignature();
+    <span class="hljs-type">Method</span> <span class="hljs-variable">method</span> <span class="hljs-operator">=</span> signature.getMethod();
+    <span class="hljs-type">Log</span> <span class="hljs-variable">logAnnotation</span> <span class="hljs-operator">=</span> method.getAnnotation(Log.class);
+
+    <span class="hljs-keyword">if</span> (logAnnotation != <span class="hljs-literal">null</span>) {
+        log.info(<span class="hljs-string">"注解描述: {}"</span>, logAnnotation.value());
+        log.info(<span class="hljs-string">"日志类型: {}"</span>, logAnnotation.type());
+    }
+}
+</code></pre>
+<h3>3. JoinPoint 的限制</h3>
+<p><strong>重要提示：</strong> JoinPoint 只能查看信息，不能控制方法执行。</p>
+<ul>
+<li>❌ 不能修改方法参数</li>
+<li>❌ 不能控制方法是否执行</li>
+<li>❌ 不能拦截返回值或异常</li>
+</ul>
+<p>主要用于：</p>
+<ul>
+<li>前置/后置日志记录</li>
+<li>参数打印</li>
+<li>方法信息收集</li>
+</ul>
+<h2>二、ProceedingJoinPoint 详解</h2>
+<h3>1. ProceedingJoinPoint 是什么</h3>
+<p>ProceedingJoinPoint 继承自 JoinPoint，拥有 JoinPoint 的所有功能，同时增加了控制方法执行的能力。</p>
+<p><strong>适用范围：</strong> 仅用于 <code>@Around</code> 通知</p>
+<h3>2. ProceedingJoinPoint 的核心功能</h3>
+<h4>2.1 proceed() - 执行目标方法</h4>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Around("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> Object <span class="hljs-title function_">around</span><span class="hljs-params">(ProceedingJoinPoint joinPoint)</span> <span class="hljs-keyword">throws</span> Throwable {
+    log.info(<span class="hljs-string">"方法执行前"</span>);
+
+    <span class="hljs-comment">// 执行目标方法，获取返回结果</span>
+    <span class="hljs-type">Object</span> <span class="hljs-variable">result</span> <span class="hljs-operator">=</span> joinPoint.proceed();
+
+    log.info(<span class="hljs-string">"方法执行后"</span>);
+    <span class="hljs-keyword">return</span> result;
+}
+</code></pre>
+<h4>2.2 proceed(Object[] args) - 修改参数后执行</h4>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Around("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> Object <span class="hljs-title function_">around</span><span class="hljs-params">(ProceedingJoinPoint joinPoint)</span> <span class="hljs-keyword">throws</span> Throwable {
+    Object[] args = joinPoint.getArgs();
+
+    <span class="hljs-comment">// 修改参数</span>
+    <span class="hljs-keyword">for</span> (<span class="hljs-type">int</span> <span class="hljs-variable">i</span> <span class="hljs-operator">=</span> <span class="hljs-number">0</span>; i &#x3C; args.length; i++) {
+        <span class="hljs-keyword">if</span> (args[i] <span class="hljs-keyword">instanceof</span> String) {
+            args[i] = ((String) args[i]).toUpperCase();
+        }
+    }
+
+    <span class="hljs-comment">// 使用修改后的参数执行方法</span>
+    <span class="hljs-keyword">return</span> joinPoint.proceed(args);
+}
+</code></pre>
+<h4>2.3 控制方法是否执行</h4>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Around("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> Object <span class="hljs-title function_">around</span><span class="hljs-params">(ProceedingJoinPoint joinPoint)</span> <span class="hljs-keyword">throws</span> Throwable {
+    <span class="hljs-comment">// 根据条件决定是否执行方法</span>
+    <span class="hljs-keyword">if</span> (shouldExecute()) {
+        <span class="hljs-keyword">return</span> joinPoint.proceed();
+    } <span class="hljs-keyword">else</span> {
+        log.warn(<span class="hljs-string">"方法被拦截，不执行"</span>);
+        <span class="hljs-keyword">return</span> <span class="hljs-literal">null</span>;
+    }
+}
+
+<span class="hljs-keyword">private</span> <span class="hljs-type">boolean</span> <span class="hljs-title function_">shouldExecute</span><span class="hljs-params">()</span> {
+    <span class="hljs-comment">// 判断逻辑</span>
+    <span class="hljs-keyword">return</span> <span class="hljs-literal">true</span>;
+}
+</code></pre>
+<h4>2.4 拦截返回值</h4>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Around("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> Object <span class="hljs-title function_">around</span><span class="hljs-params">(ProceedingJoinPoint joinPoint)</span> <span class="hljs-keyword">throws</span> Throwable {
+    <span class="hljs-type">Object</span> <span class="hljs-variable">result</span> <span class="hljs-operator">=</span> joinPoint.proceed();
+
+    <span class="hljs-comment">// 修改返回值</span>
+    <span class="hljs-keyword">if</span> (result <span class="hljs-keyword">instanceof</span> String) {
+        result = ((String) result).toUpperCase();
+    }
+
+    <span class="hljs-keyword">return</span> result;
+}
+</code></pre>
+<h4>2.5 拦截异常</h4>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Around("serviceMethods()")</span>
+<span class="hljs-keyword">public</span> Object <span class="hljs-title function_">around</span><span class="hljs-params">(ProceedingJoinPoint joinPoint)</span> <span class="hljs-keyword">throws</span> Throwable {
+    <span class="hljs-keyword">try</span> {
+        <span class="hljs-keyword">return</span> joinPoint.proceed();
+    } <span class="hljs-keyword">catch</span> (Exception e) {
+        log.error(<span class="hljs-string">"方法执行异常: {}"</span>, e.getMessage());
+        <span class="hljs-comment">// 可以选择：</span>
+        <span class="hljs-comment">// 1. 重新抛出异常</span>
+        <span class="hljs-comment">// throw e;</span>
+        <span class="hljs-comment">// 2. 返回默认值</span>
+        <span class="hljs-keyword">return</span> getDefaultValue();
+        <span class="hljs-comment">// 3. 转换异常类型</span>
+        <span class="hljs-comment">// throw new CustomException(e);</span>
+    }
+}
+
+<span class="hljs-keyword">private</span> Object <span class="hljs-title function_">getDefaultValue</span><span class="hljs-params">()</span> {
+    <span class="hljs-keyword">return</span> <span class="hljs-literal">null</span>;
+}
+</code></pre>
+<h3>3. JoinPoint vs ProceedingJoinPoint 对比</h3>
+<table>
+<thead>
+<tr>
+<th>功能</th>
+<th>JoinPoint</th>
+<th>ProceedingJoinPoint</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>获取目标方法参数</td>
+<td>✔</td>
+<td>✔</td>
+</tr>
+<tr>
+<td>获取目标对象 target</td>
+<td>✔</td>
+<td>✔</td>
+</tr>
+<tr>
+<td>获取代理对象 this</td>
+<td>✔</td>
+<td>✔</td>
+</tr>
+<tr>
+<td>获取方法签名</td>
+<td>✔</td>
+<td>✔</td>
+</tr>
+<tr>
+<td>获取方法上注解</td>
+<td>✔</td>
+<td>✔</td>
+</tr>
+<tr>
+<td>修改方法参数</td>
+<td>❌</td>
+<td>✔ (proceed(args))</td>
+</tr>
+<tr>
+<td>控制方法是否执行</td>
+<td>❌</td>
+<td>✔ (proceed())</td>
+</tr>
+<tr>
+<td>拦截返回值/异常</td>
+<td>❌</td>
+<td>✔</td>
+</tr>
+</tbody>
+</table>
+<p><strong>简单总结：</strong></p>
+<ul>
+<li><strong>JoinPoint</strong>：用来查看信息，不可控制方法执行</li>
+<li><strong>ProceedingJoinPoint</strong>：可以控制方法执行，是环绕通知专用</li>
+</ul>
+<h2>三、注解元信息详解</h2>
+<h3>1. @Target - 注解可以用在哪里</h3>
+<p><code>@Target</code> 决定注解能标在什么地方。</p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Target({ElementType.METHOD, ElementType.TYPE})</span>
+<span class="hljs-meta">@Retention(RetentionPolicy.RUNTIME)</span>
+<span class="hljs-meta">@Documented</span>
+<span class="hljs-keyword">public</span> <span class="hljs-meta">@interface</span> MyAnnotation {
+    String <span class="hljs-title function_">value</span><span class="hljs-params">()</span> <span class="hljs-keyword">default</span> <span class="hljs-string">""</span>;
+}
+</code></pre>
+<p><strong>ElementType 取值：</strong></p>
+<table>
+<thead>
+<tr>
+<th>取值</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>METHOD</td>
+<td>方法上</td>
+</tr>
+<tr>
+<td>TYPE</td>
+<td>类上（Class、Interface、Enum）</td>
+</tr>
+<tr>
+<td>FIELD</td>
+<td>字段上</td>
+</tr>
+<tr>
+<td>PARAMETER</td>
+<td>参数上</td>
+</tr>
+<tr>
+<td>CONSTRUCTOR</td>
+<td>构造方法上</td>
+</tr>
+<tr>
+<td>LOCAL_VARIABLE</td>
+<td>局部变量上</td>
+</tr>
+<tr>
+<td>ANNOTATION_TYPE</td>
+<td>注解上</td>
+</tr>
+<tr>
+<td>PACKAGE</td>
+<td>包上</td>
+</tr>
+</tbody>
+</table>
+<p><strong>示例：</strong></p>
+<pre><code class="hljs language-java"><span class="hljs-comment">// ✅ 可以这么用</span>
+<span class="hljs-meta">@MyAnnotation</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">TestController</span> {}
+
+<span class="hljs-meta">@MyAnnotation</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">test</span><span class="hljs-params">()</span> {}
+
+<span class="hljs-comment">// ❌ 不允许（因为 FIELD 不在 Target 里）</span>
+<span class="hljs-meta">@MyAnnotation</span>
+<span class="hljs-keyword">private</span> String name;
+</code></pre>
+<h3>2. @Retention - 注解在什么时候有效</h3>
+<p><code>@Retention</code> 决定注解的生命周期。</p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Target(ElementType.METHOD)</span>
+<span class="hljs-meta">@Retention(RetentionPolicy.RUNTIME)</span>
+<span class="hljs-meta">@Documented</span>
+<span class="hljs-keyword">public</span> <span class="hljs-meta">@interface</span> MyAnnotation {
+    String <span class="hljs-title function_">value</span><span class="hljs-params">()</span> <span class="hljs-keyword">default</span> <span class="hljs-string">""</span>;
+}
+</code></pre>
+<p><strong>RetentionPolicy 取值：</strong></p>
+<table>
+<thead>
+<tr>
+<th>取值</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SOURCE</td>
+<td>只在源码中存在，编译后消失（如 Lombok）</td>
+</tr>
+<tr>
+<td>CLASS</td>
+<td>编译进 class 文件，运行时不可用</td>
+</tr>
+<tr>
+<td>RUNTIME</td>
+<td>运行时仍存在，反射可以获取</td>
+</tr>
+</tbody>
+</table>
+<p><strong>重要说明：</strong></p>
+<p>Spring AOP、Spring MVC、MyBatis 等框架的注解都必须使用 <code>RetentionPolicy.RUNTIME</code>，否则运行时无法通过反射获取注解信息。</p>
+<pre><code class="hljs language-java"><span class="hljs-comment">// ✅ 正确：AOP 可以获取注解</span>
+<span class="hljs-meta">@Retention(RetentionPolicy.RUNTIME)</span>
+<span class="hljs-keyword">public</span> <span class="hljs-meta">@interface</span> Log {
+    String <span class="hljs-title function_">value</span><span class="hljs-params">()</span> <span class="hljs-keyword">default</span> <span class="hljs-string">""</span>;
+}
+
+<span class="hljs-comment">// ❌ 错误：AOP 无法获取注解</span>
+<span class="hljs-meta">@Retention(RetentionPolicy.SOURCE)</span>
+<span class="hljs-keyword">public</span> <span class="hljs-meta">@interface</span> Log {
+    String <span class="hljs-title function_">value</span><span class="hljs-params">()</span> <span class="hljs-keyword">default</span> <span class="hljs-string">""</span>;
+}
+</code></pre>
+<h3>3. @Documented - 注解是否包含在 JavaDoc 中</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Target(ElementType.METHOD)</span>
+<span class="hljs-meta">@Retention(RetentionPolicy.RUNTIME)</span>
+<span class="hljs-meta">@Documented</span>  <span class="hljs-comment">// 注解信息会包含在 JavaDoc 中</span>
+<span class="hljs-keyword">public</span> <span class="hljs-meta">@interface</span> Log {
+    String <span class="hljs-title function_">value</span><span class="hljs-params">()</span> <span class="hljs-keyword">default</span> <span class="hljs-string">""</span>;
+}
+</code></pre>
+<h3>4. @Inherited - 注解是否可以被继承</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Target(ElementType.TYPE)</span>
+<span class="hljs-meta">@Retention(RetentionPolicy.RUNTIME)</span>
+<span class="hljs-meta">@Inherited</span>  <span class="hljs-comment">// 子类会继承父类的注解</span>
+<span class="hljs-keyword">public</span> <span class="hljs-meta">@interface</span> MyAnnotation {
+    String <span class="hljs-title function_">value</span><span class="hljs-params">()</span> <span class="hljs-keyword">default</span> <span class="hljs-string">""</span>;
+}
+</code></pre>
+<p><strong>示例：</strong></p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@MyAnnotation("父类")</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">ParentClass</span> {
+}
+
+<span class="hljs-comment">// 子类会自动继承 @MyAnnotation 注解</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">ChildClass</span> <span class="hljs-keyword">extends</span> <span class="hljs-title class_">ParentClass</span> {
+}
+</code></pre>
+<h2>四、实战示例</h2>
+<h3>1. 完整的日志切面</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-meta">@Slf4j</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">CompleteLogAspect</span> {
+
+    <span class="hljs-meta">@Around("@annotation(logAnnotation)")</span>
+    <span class="hljs-keyword">public</span> Object <span class="hljs-title function_">around</span><span class="hljs-params">(ProceedingJoinPoint joinPoint, Log logAnnotation)</span> <span class="hljs-keyword">throws</span> Throwable {
+        <span class="hljs-comment">// 获取方法签名</span>
+        <span class="hljs-type">MethodSignature</span> <span class="hljs-variable">signature</span> <span class="hljs-operator">=</span> (MethodSignature) joinPoint.getSignature();
+        <span class="hljs-type">Method</span> <span class="hljs-variable">method</span> <span class="hljs-operator">=</span> signature.getMethod();
+
+        <span class="hljs-comment">// 获取类名和方法名</span>
+        <span class="hljs-type">String</span> <span class="hljs-variable">className</span> <span class="hljs-operator">=</span> joinPoint.getTarget().getClass().getSimpleName();
+        <span class="hljs-type">String</span> <span class="hljs-variable">methodName</span> <span class="hljs-operator">=</span> signature.getName();
+
+        <span class="hljs-comment">// 获取方法参数名和参数值</span>
+        String[] parameterNames = signature.getParameterNames();
+        Object[] parameterValues = joinPoint.getArgs();
+
+        <span class="hljs-comment">// 构建参数映射</span>
+        Map&#x3C;String, Object> params = <span class="hljs-keyword">new</span> <span class="hljs-title class_">HashMap</span>&#x3C;>();
+        <span class="hljs-keyword">for</span> (<span class="hljs-type">int</span> <span class="hljs-variable">i</span> <span class="hljs-operator">=</span> <span class="hljs-number">0</span>; i &#x3C; parameterNames.length; i++) {
+            params.put(parameterNames[i], parameterValues[i]);
+        }
+
+        <span class="hljs-comment">// 记录开始日志</span>
+        log.info(<span class="hljs-string">"==> 开始执行: {}.{}"</span>, className, methodName);
+        log.info(<span class="hljs-string">"==> 操作描述: {}"</span>, logAnnotation.value());
+        log.info(<span class="hljs-string">"==> 日志类型: {}"</span>, logAnnotation.type());
+        log.info(<span class="hljs-string">"==> 方法参数: {}"</span>, params);
+
+        <span class="hljs-type">long</span> <span class="hljs-variable">startTime</span> <span class="hljs-operator">=</span> System.currentTimeMillis();
+
+        <span class="hljs-keyword">try</span> {
+            <span class="hljs-comment">// 执行目标方法</span>
+            <span class="hljs-type">Object</span> <span class="hljs-variable">result</span> <span class="hljs-operator">=</span> joinPoint.proceed();
+
+            <span class="hljs-type">long</span> <span class="hljs-variable">endTime</span> <span class="hljs-operator">=</span> System.currentTimeMillis();
+            log.info(<span class="hljs-string">"==> 执行成功，耗时: {}ms"</span>, endTime - startTime);
+            log.info(<span class="hljs-string">"==> 返回结果: {}"</span>, result);
+
+            <span class="hljs-keyword">return</span> result;
+        } <span class="hljs-keyword">catch</span> (Throwable e) {
+            log.error(<span class="hljs-string">"==> 执行异常: {}"</span>, e.getMessage(), e);
+            <span class="hljs-keyword">throw</span> e;
+        }
+    }
+}
+</code></pre>
+<h3>2. 参数校验切面</h3>
+<pre><code class="hljs language-java"><span class="hljs-meta">@Aspect</span>
+<span class="hljs-meta">@Component</span>
+<span class="hljs-meta">@Slf4j</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">ValidationAspect</span> {
+
+    <span class="hljs-meta">@Before("@annotation(validate)")</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">validateParams</span><span class="hljs-params">(JoinPoint joinPoint, Validate validate)</span> {
+        <span class="hljs-comment">// 获取方法参数</span>
+        Object[] args = joinPoint.getArgs();
+
+        <span class="hljs-comment">// 获取方法签名</span>
+        <span class="hljs-type">MethodSignature</span> <span class="hljs-variable">signature</span> <span class="hljs-operator">=</span> (MethodSignature) joinPoint.getSignature();
+        String[] parameterNames = signature.getParameterNames();
+
+        <span class="hljs-comment">// 校验参数</span>
+        <span class="hljs-keyword">for</span> (<span class="hljs-type">int</span> <span class="hljs-variable">i</span> <span class="hljs-operator">=</span> <span class="hljs-number">0</span>; i &#x3C; args.length; i++) {
+            <span class="hljs-keyword">if</span> (args[i] == <span class="hljs-literal">null</span>) {
+                <span class="hljs-keyword">throw</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">IllegalArgumentException</span>(
+                    String.format(<span class="hljs-string">"参数 %s 不能为空"</span>, parameterNames[i]));
+            }
+
+            <span class="hljs-keyword">if</span> (args[i] <span class="hljs-keyword">instanceof</span> String &#x26;&#x26; ((String) args[i]).isEmpty()) {
+                <span class="hljs-keyword">throw</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">IllegalArgumentException</span>(
+                    String.format(<span class="hljs-string">"参数 %s 不能为空字符串"</span>, parameterNames[i]));
+            }
+        }
+    }
+}
+</code></pre>
+<h2>五、总结</h2>
+<p>本文详细介绍了 JoinPoint 和注解元信息的使用：</p>
+<p><strong>JoinPoint：</strong></p>
+<ul>
+<li>可以获取方法参数、目标对象、代理对象、方法签名等信息</li>
+<li>只能查看信息，不能控制方法执行</li>
+<li>适用于 @Before、@After、@AfterReturning、@AfterThrowing</li>
+</ul>
+<p><strong>ProceedingJoinPoint：</strong></p>
+<ul>
+<li>继承 JoinPoint 的所有功能</li>
+<li>可以控制方法是否执行</li>
+<li>可以修改方法参数和返回值</li>
+<li>可以拦截异常</li>
+<li>仅适用于 @Around</li>
+</ul>
+<p><strong>注解元信息：</strong></p>
+<ul>
+<li>@Target：定义注解可以用在哪里</li>
+<li>@Retention：定义注解的生命周期（AOP 必须使用 RUNTIME）</li>
+<li>@Documented：注解是否包含在 JavaDoc 中</li>
+<li>@Inherited：注解是否可以被继承</li>
+</ul>
+<p>通过合理使用 JoinPoint 和注解元信息，可以实现更强大和灵活的 AOP 功能。</p>
+<hr>
+<p><strong>系列完结</strong></p>
+<p>至此，Spring Boot AOP 完整指南系列文章全部完成。希望这个系列能帮助你深入理解和掌握 AOP 技术，在实际项目中灵活运用。</p>
+<p>如果你有任何问题或建议，欢迎留言交流！</p>b:["$","div",null,{"className":"space-y-6","children":[["$","$Lf",null,{"html":"$10"}],"$L11","$L12"]}]
+c:["$","aside",null,{"className":"hidden xl:block w-80 flex-shrink-0","children":["$","div",null,{"className":"sticky top-6","children":["$","$L13",null,{"toc":[{"id":"spring-boot-aop-完整指南五joinpoint-详解和注解元信息","text":"Spring Boot AOP 完整指南（五）：JoinPoint 详解和注解元信息","depth":1},{"id":"一joinpoint-详解","text":"一、JoinPoint 详解","depth":2},{"id":"1-joinpoint-是什么","text":"1. JoinPoint 是什么","depth":3},{"id":"2-joinpoint-能获取什么信息","text":"2. JoinPoint 能获取什么信息","depth":3},{"id":"3-joinpoint-的限制","text":"3. JoinPoint 的限制","depth":3},{"id":"二proceedingjoinpoint-详解","text":"二、ProceedingJoinPoint 详解","depth":2},{"id":"1-proceedingjoinpoint-是什么","text":"1. ProceedingJoinPoint 是什么","depth":3},{"id":"2-proceedingjoinpoint-的核心功能","text":"2. ProceedingJoinPoint 的核心功能","depth":3},{"id":"3-joinpoint-vs-proceedingjoinpoint-对比","text":"3. JoinPoint vs ProceedingJoinPoint 对比","depth":3},{"id":"三注解元信息详解","text":"三、注解元信息详解","depth":2},{"id":"1-target---注解可以用在哪里","text":"1. @Target - 注解可以用在哪里","depth":3},{"id":"2-retention---注解在什么时候有效","text":"2. @Retention - 注解在什么时候有效","depth":3},{"id":"3-documented---注解是否包含在-javadoc-中","text":"3. @Documented - 注解是否包含在 JavaDoc 中","depth":3},{"id":"4-inherited---注解是否可以被继承","text":"4. @Inherited - 注解是否可以被继承","depth":3},{"id":"四实战示例","text":"四、实战示例","depth":2},{"id":"1-完整的日志切面","text":"1. 完整的日志切面","depth":3},{"id":"2-参数校验切面","text":"2. 参数校验切面","depth":3},{"id":"五总结","text":"五、总结","depth":2}]}]}]}]
+d:["$","script","script-0",{"src":"/_next/static/chunks/810067374a9e0899.js","async":true}]
+e:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+11:["$","$L17",null,{"title":"Spring Boot AOP 完整指南（五）：JoinPoint 详解和注解元信息"}]
+12:["$","section",null,{"className":"mt-10 relative","children":[["$","div",null,{"className":"absolute -inset-4 bg-gradient-to-r from-blue-500/10 via-cyan-500/10 to-blue-500/10 rounded-2xl blur-xl -z-10"}],["$","div",null,{"className":"relative rounded-xl bg-gradient-to-br from-white/90 via-blue-50/60 to-cyan-50/40 dark:from-zinc-900/90 dark:via-blue-950/40 dark:to-cyan-950/20 backdrop-blur-sm border border-blue-200/50 dark:border-blue-800/30 p-8 shadow-xl","children":["$","div",null,{"className":"flex items-start gap-4","children":[["$","div",null,{"className":"flex-shrink-0 w-12 h-12 rounded-full bg-gradient-to-br from-blue-500 to-cyan-500 flex items-center justify-center shadow-lg shadow-blue-500/30","children":["$","svg",null,{"className":"w-6 h-6 text-white","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"}]}]}],["$","div",null,{"className":"flex-1","children":[["$","h3",null,{"className":"font-bold text-lg bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent mb-2","children":"💬 评论区"}],["$","p",null,{"className":"text-sm text-zinc-600 dark:text-zinc-300 leading-relaxed","children":"评论系统未集成（Twikoo/Waline/Valine 等）。如需启用，请告知您偏好的方案。"}],["$","div",null,{"className":"mt-4 flex gap-2","children":[["$","div",null,{"className":"px-3 py-1 rounded-full bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 text-xs font-medium","children":"Twikoo"}],["$","div",null,{"className":"px-3 py-1 rounded-full bg-cyan-100 dark:bg-cyan-900/30 text-cyan-700 dark:text-cyan-300 text-xs font-medium","children":"Waline"}],["$","div",null,{"className":"px-3 py-1 rounded-full bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 text-xs font-medium","children":"Valine"}]]}]]}]]}]}]]}]
+16:null

@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+2:I[92825,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"ClientSegmentRoot"]
+3:I[42525,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js"],"default"]
+4:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"default"]
+5:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"default"]
+6:I[22016,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],""]
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+c:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"ViewportBoundary"]
+e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"MetadataBoundary"]
+10:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/fabdb5af8027d3fa.js"],"default"]
+:HL["/_next/static/chunks/84a9f2fcbf6d2ca2.css","style"]
+:HC["/",""]
+0:{"P":null,"b":"2Ozkn6_1m22k4rI__ncKq","c":["","posts","01-AOP"],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["slug","01-AOP","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/84a9f2fcbf6d2ca2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/75ea25e80b6d3b00.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/79d97871584e3ffd.js","async":true,"nonce":"$undefined"}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-[50vh] flex items-center justify-center","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"text-3xl font-semibold","children":"页面未找到"}],["$","p",null,{"className":"mt-2 text-zinc-600 dark:text-zinc-400","children":"可能该文章不存在或已被移除。"}],["$","div",null,{"className":"mt-6","children":["$","$L6",null,{"href":"/","className":"rounded-md border px-3 py-2 text-sm text-zinc-700 hover:text-black dark:text-zinc-300","children":"返回首页"}]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@7"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",[["$","script","script-0",{"src":"/_next/static/chunks/810067374a9e0899.js","async":true,"nonce":"$undefined"}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$@d"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$@f"}]}]}],null]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+7:"$0:f:0:1:0:props:children:1:props:serverProvidedParams:params"
+11:I[39494,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+8:["$","div",null,{"className":"min-h-screen relative","children":[["$","div",null,{"className":"fixed inset-0 -z-20 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 left-0 w-96 h-96 bg-purple-500/10 rounded-full blur-3xl animate-pulse","style":{"animationDuration":"4s"}}],["$","div",null,{"className":"absolute top-1/4 right-0 w-96 h-96 bg-pink-500/10 rounded-full blur-3xl animate-pulse","style":{"animationDuration":"5s","animationDelay":"1s"}}],["$","div",null,{"className":"absolute bottom-0 left-1/3 w-96 h-96 bg-blue-500/10 rounded-full blur-3xl animate-pulse","style":{"animationDuration":"6s","animationDelay":"2s"}}]]}],["$","$L11",null,{"banner":"https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1920&auto=format&fit=crop","contentBackground":"$undefined","title":"Spring Boot AOP 完整指南（一）：基础概念和环境搭建"}],["$","main",null,{"className":"relative z-10 w-full bg-gradient-to-b from-zinc-50/98 via-white/95 to-zinc-50/98 dark:from-black/98 dark:via-zinc-950/95 dark:to-black/98 backdrop-blur-md shadow-2xl","children":["$","div",null,{"className":"max-w-7xl mx-auto py-12 px-6","children":["$","div",null,{"className":"flex gap-8 items-start","children":[["$","div",null,{"className":"flex-1 min-w-0 max-w-4xl","children":[["$","header",null,{"className":"mb-8 relative","children":[["$","div",null,{"className":"absolute -inset-6 bg-gradient-to-r from-purple-500/10 via-pink-500/10 to-purple-500/10 rounded-3xl blur-2xl -z-10"}],["$","div",null,{"className":"relative rounded-2xl bg-gradient-to-br from-white/90 via-purple-50/50 to-pink-50/30 dark:from-zinc-900/90 dark:via-purple-950/30 dark:to-pink-950/20 backdrop-blur-xl border border-purple-200/50 dark:border-purple-800/30 p-8 shadow-2xl","children":[["$","div",null,{"className":"absolute top-0 left-0 right-0 h-1.5 bg-gradient-to-r from-purple-500 via-pink-500 to-purple-500 rounded-t-2xl"}],["$","h2",null,{"className":"text-3xl md:text-4xl font-extrabold tracking-tight bg-gradient-to-r from-purple-600 via-pink-600 to-purple-600 bg-clip-text text-transparent mb-6 leading-tight","children":"Spring Boot AOP 完整指南（一）：基础概念和环境搭建"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm mb-5","children":[["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-purple-100/80 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300 backdrop-blur-sm","children":[["$","span",null,{"children":"📅"}],["$","span",null,{"className":"font-medium","children":"Mon Dec 01 2025 08:00:00 GMT+0800 (中国标准时间)"}]]}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-pink-100/80 dark:bg-pink-900/30 text-pink-700 dark:text-pink-300 backdrop-blur-sm","children":[["$","span",null,{"children":"📂"}],["$","$L6",null,{"href":"/categories/%E6%95%99%E7%A8%8B","className":"font-medium hover:underline transition-all","children":"教程"}]]}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-100/80 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 backdrop-blur-sm","children":[["$","span",null,{"children":"⏱️"}],["$","span",null,{"className":"font-medium","children":[1," min"]}]]}],["$","div",null,{"className":"flex items-center gap-2 px-3 py-1.5 rounded-full bg-green-100/80 dark:bg-green-900/30 text-green-700 dark:text-green-300 backdrop-blur-sm","children":[["$","span",null,{"children":"📝"}],["$","span",null,{"className":"font-medium","children":[194," 字"]}]]}]]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","$L6","Spring Boot",{"href":"/tags/Spring%20Boot","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],"$L12"]}],"$L13","$L14","$L15"]}],"$L16"]}]]}],"$L17"]}],"$L18"]}]}]}]]}]
+19:I[22495,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+1d:I[88393,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+12:["$","span",null,{"children":"Spring Boot"}]
+13:["$","$L6","AOP",{"href":"/tags/AOP","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"AOP"}]]}]
+14:["$","$L6","Java",{"href":"/tags/Java","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"Java"}]]}]
+15:["$","$L6","后端开发",{"href":"/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91","className":"group px-4 py-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white text-xs font-semibold shadow-md hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-1.5","children":[["$","span",null,{"className":"text-sm","children":"🏷️"}],["$","span",null,{"children":"后端开发"}]]}]
+16:["$","div",null,{"className":"flex flex-wrap gap-3 pt-6 border-t border-purple-200/50 dark:border-purple-800/30","children":[["$","$L6",null,{"href":"/","className":"group px-5 py-2.5 rounded-lg bg-white dark:bg-zinc-800 border-2 border-purple-300 dark:border-purple-700 text-purple-700 dark:text-purple-300 font-medium shadow-md hover:shadow-purple-500/30 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-2","children":[["$","svg",null,{"className":"w-4 h-4","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M10 19l-7-7m0 0l7-7m-7 7h18"}]}],["$","span",null,{"children":"返回首页"}]]}],["$","$L6",null,{"href":"/categories/%E6%95%99%E7%A8%8B","className":"group px-5 py-2.5 rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 text-white font-medium shadow-lg hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-2","children":[["$","span",null,{"children":"📂"}],["$","span",null,{"children":["更多","教程"]}]]}]]}]
+1a:T18a2,<h1>Spring Boot AOP 完整指南（一）：基础概念和环境搭建</h1>
+<h2>一、什么是 AOP</h2>
+<p>AOP（Aspect-Oriented Programming，面向切面编程）是一种编程范式，用于将横切关注点从业务逻辑中分离出来，提高代码的模块化程度。</p>
+<h3>为什么需要 AOP</h3>
+<p>在实际开发中，我们经常遇到这样的场景：</p>
+<ul>
+<li>需要在多个方法中记录日志</li>
+<li>需要在方法执行前进行权限校验</li>
+<li>需要统计方法执行时间</li>
+<li>需要统一处理异常</li>
+<li>需要管理事务</li>
+</ul>
+<p>这些功能与核心业务逻辑无关，但又散布在各个业务方法中，导致代码重复、难以维护。AOP 就是为了解决这个问题而诞生的。</p>
+<h3>核心概念</h3>
+<h4>横切关注点（Cross-cutting Concerns）</h4>
+<p>分散在应用各处的通用功能，如日志记录、事务管理、权限检查、性能监控等。</p>
+<h4>切面（Aspect）</h4>
+<p>模块化的横切关注点，使用 <code>@Aspect</code> 注解标识。</p>
+<h4>连接点（Join Point）</h4>
+<p>程序执行过程中的某个特定点，在 Spring AOP 中特指方法的执行。</p>
+<h4>切入点（Pointcut）</h4>
+<p>匹配连接点的表达式，定义了在哪些方法上应用切面逻辑。</p>
+<h4>通知（Advice）</h4>
+<p>在切入点执行的具体操作，主要有以下类型：</p>
+<ul>
+<li><code>@Before</code>：前置通知，目标方法执行前执行</li>
+<li><code>@After</code>：后置通知，目标方法执行后执行（无论是否异常）</li>
+<li><code>@AfterReturning</code>：返回通知，目标方法正常返回后执行</li>
+<li><code>@AfterThrowing</code>：异常通知，目标方法抛出异常后执行</li>
+<li><code>@Around</code>：环绕通知，包围目标方法执行，最强大的通知类型</li>
+</ul>
+<h4>目标对象（Target Object）</h4>
+<p>被切面所通知的对象，即被代理的业务类。</p>
+<h4>织入（Weaving）</h4>
+<p>将切面应用到目标对象并创建代理对象的过程。</p>
+<h2>二、环境搭建</h2>
+<h3>1. 添加依赖</h3>
+<p>在 Spring Boot 项目中，只需添加一个 starter 依赖：</p>
+<pre><code class="hljs language-xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">dependencies</span>></span>
+    <span class="hljs-comment">&#x3C;!-- Spring Boot Web --></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">dependency</span>></span>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">groupId</span>></span>org.springframework.boot<span class="hljs-tag">&#x3C;/<span class="hljs-name">groupId</span>></span>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">artifactId</span>></span>spring-boot-starter-web<span class="hljs-tag">&#x3C;/<span class="hljs-name">artifactId</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">dependency</span>></span>
+
+    <span class="hljs-comment">&#x3C;!-- Spring Boot AOP --></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">dependency</span>></span>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">groupId</span>></span>org.springframework.boot<span class="hljs-tag">&#x3C;/<span class="hljs-name">groupId</span>></span>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">artifactId</span>></span>spring-boot-starter-aop<span class="hljs-tag">&#x3C;/<span class="hljs-name">artifactId</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">dependency</span>></span>
+
+    <span class="hljs-comment">&#x3C;!-- Lombok（可选） --></span>
+    <span class="hljs-tag">&#x3C;<span class="hljs-name">dependency</span>></span>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">groupId</span>></span>org.projectlombok<span class="hljs-tag">&#x3C;/<span class="hljs-name">groupId</span>></span>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">artifactId</span>></span>lombok<span class="hljs-tag">&#x3C;/<span class="hljs-name">artifactId</span>></span>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">optional</span>></span>true<span class="hljs-tag">&#x3C;/<span class="hljs-name">optional</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">dependency</span>></span>
+<span class="hljs-tag">&#x3C;/<span class="hljs-name">dependencies</span>></span>
+</code></pre>
+<p><code>spring-boot-starter-aop</code> 会自动引入：</p>
+<ul>
+<li>spring-aop：Spring AOP 核心包</li>
+<li>aspectjweaver：AspectJ 织入包</li>
+<li>spring-aspects：Spring 对 AspectJ 的集成支持</li>
+</ul>
+<h3>2. 启用 AOP</h3>
+<p>Spring Boot 会自动启用 AOP，无需额外配置。如果需要自定义配置：</p>
+<pre><code class="hljs language-java"><span class="hljs-meta">@SpringBootApplication</span>
+<span class="hljs-meta">@EnableAspectJAutoProxy(proxyTargetClass = true)</span>  <span class="hljs-comment">// 可选</span>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">Application</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        SpringApplication.run(Application.class, args);
+    }
+}
+</code></pre>
+<h2>三、AOP 的工作原理</h2>
+<p>Spring AOP 基于动态代理实现：</p>
+<ol>
+<li><strong>JDK 动态代理</strong>：当目标对象实现了接口时，Spring 使用 JDK 动态代理</li>
+<li><strong>CGLIB 代理</strong>：当目标对象没有实现接口时，Spring 使用 CGLIB 代理</li>
+</ol>
+<p>通过 <code>@EnableAspectJAutoProxy(proxyTargetClass = true)</code> 可以强制使用 CGLIB 代理。</p>
+<h2>四、小结</h2>
+<p>本文介绍了 AOP 的基础概念和环境搭建：</p>
+<ul>
+<li><strong>AOP 的核心价值</strong>：将横切关注点与业务逻辑分离，提高代码的模块化和可维护性</li>
+<li><strong>核心概念</strong>：切面、连接点、切入点、通知、目标对象、织入</li>
+<li><strong>环境搭建</strong>：只需添加 <code>spring-boot-starter-aop</code> 依赖即可</li>
+</ul>
+<p>下一篇文章将介绍 AOP 的基础使用和切入点表达式的编写。</p>17:["$","div",null,{"className":"space-y-6","children":[["$","$L19",null,{"html":"$1a"}],"$L1b","$L1c"]}]
+18:["$","aside",null,{"className":"hidden xl:block w-80 flex-shrink-0","children":["$","div",null,{"className":"sticky top-6","children":["$","$L1d",null,{"toc":[{"id":"spring-boot-aop-完整指南一基础概念和环境搭建","text":"Spring Boot AOP 完整指南（一）：基础概念和环境搭建","depth":1},{"id":"一什么是-aop","text":"一、什么是 AOP","depth":2},{"id":"为什么需要-aop","text":"为什么需要 AOP","depth":3},{"id":"核心概念","text":"核心概念","depth":3},{"id":"二环境搭建","text":"二、环境搭建","depth":2},{"id":"1-添加依赖","text":"1. 添加依赖","depth":3},{"id":"2-启用-aop","text":"2. 启用 AOP","depth":3},{"id":"三aop-的工作原理","text":"三、AOP 的工作原理","depth":2},{"id":"四小结","text":"四、小结","depth":2}]}]}]}]
+1e:I[44813,["/_next/static/chunks/75ea25e80b6d3b00.js","/_next/static/chunks/79d97871584e3ffd.js","/_next/static/chunks/810067374a9e0899.js"],"default"]
+1b:["$","$L1e",null,{"title":"Spring Boot AOP 完整指南（一）：基础概念和环境搭建"}]
+1c:["$","section",null,{"className":"mt-10 relative","children":[["$","div",null,{"className":"absolute -inset-4 bg-gradient-to-r from-blue-500/10 via-cyan-500/10 to-blue-500/10 rounded-2xl blur-xl -z-10"}],["$","div",null,{"className":"relative rounded-xl bg-gradient-to-br from-white/90 via-blue-50/60 to-cyan-50/40 dark:from-zinc-900/90 dark:via-blue-950/40 dark:to-cyan-950/20 backdrop-blur-sm border border-blue-200/50 dark:border-blue-800/30 p-8 shadow-xl","children":["$","div",null,{"className":"flex items-start gap-4","children":[["$","div",null,{"className":"flex-shrink-0 w-12 h-12 rounded-full bg-gradient-to-br from-blue-500 to-cyan-500 flex items-center justify-center shadow-lg shadow-blue-500/30","children":["$","svg",null,{"className":"w-6 h-6 text-white","fill":"none","stroke":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":2,"d":"M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"}]}]}],["$","div",null,{"className":"flex-1","children":[["$","h3",null,{"className":"font-bold text-lg bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent mb-2","children":"💬 评论区"}],["$","p",null,{"className":"text-sm text-zinc-600 dark:text-zinc-300 leading-relaxed","children":"评论系统未集成（Twikoo/Waline/Valine 等）。如需启用，请告知您偏好的方案。"}],["$","div",null,{"className":"mt-4 flex gap-2","children":[["$","div",null,{"className":"px-3 py-1 rounded-full bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 text-xs font-medium","children":"Twikoo"}],["$","div",null,{"className":"px-3 py-1 rounded-full bg-cyan-100 dark:bg-cyan-900/30 text-cyan-700 dark:text-cyan-300 text-xs font-medium","children":"Waline"}],["$","div",null,{"className":"px-3 py-1 rounded-full bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 text-xs font-medium","children":"Valine"}]]}]]}]]}]}]]}]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:[["$","title","0",{"children":"Spring Boot AOP 完整指南（一）：基础概念和环境搭建 - My Blog"}],["$","meta","1",{"name":"description","content":"深入理解 AOP 的核心概念，掌握 Spring Boot 中 AOP 的环境搭建和基本配置"}]]
+b:null
